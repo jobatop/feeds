@@ -1,8 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/news</id>
-    <title>hacker news</title>
-    <updated>2025-10-25T04:24:36.796Z</updated>
+    <title>Hacker News</title>
+    <updated>2025-10-25T04:52:05.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[The Swift SDK for Android]]></title>
+        <id>https://www.swift.org/blog/nightly-swift-sdk-for-android/</id>
+        <link href="https://www.swift.org/blog/nightly-swift-sdk-for-android/"/>
+        <updated>2025-10-25T04:52:02.406Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45698570" href="vote?id=45698570&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/">The Swift SDK for Android</a><span class="sitebit comhead"> (<a href="from?site=swift.org"><span class="sitestr">swift.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Free WiFi on British Airways]]></title>
+        <id>https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html</id>
+        <link href="https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html"/>
+        <updated>2025-10-25T04:52:02.406Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45695134" href="vote?id=45695134&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html">Unlocking Free WiFi on British Airways</a><span class="sitebit comhead"> (<a href="from?site=saxrag.com"><span class="sitestr">saxrag.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People with blindness can read again after retinal implant and special glasses]]></title>
+        <id>https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488</id>
+        <link href="https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488"/>
+        <updated>2025-10-25T04:52:02.406Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45653639" href="vote?id=45653639&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488">People with blindness can read again after retinal implant and special glasses</a><span class="sitebit comhead"> (<a href="from?site=nbcnews.com"><span class="sitestr">nbcnews.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valetudo: Cloud replacement for vacuum robots enabling local-only operation]]></title>
+        <id>https://valetudo.cloud/</id>
+        <link href="https://valetudo.cloud/"/>
+        <updated>2025-10-25T04:52:02.406Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45642571" href="vote?id=45642571&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://valetudo.cloud/">Valetudo: Cloud replacement for vacuum robots enabling local-only operation</a><span class="sitebit comhead"> (<a href="from?site=valetudo.cloud"><span class="sitestr">valetudo.cloud</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Intelligence? (2024)]]></title>
+        <id>https://whatisintelligence.antikythera.org/</id>
+        <link href="https://whatisintelligence.antikythera.org/"/>
+        <updated>2025-10-25T04:52:02.406Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45700663" href="vote?id=45700663&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://whatisintelligence.antikythera.org/">What Is Intelligence? (2024)</a><span class="sitebit comhead"> (<a href="from?site=antikythera.org"><span class="sitestr">antikythera.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context engineering is sleeping on the humble hyperlink]]></title>
+        <id>https://mbleigh.dev/posts/context-engineering-with-links/</id>
+        <link href="https://mbleigh.dev/posts/context-engineering-with-links/"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45682164" href="vote?id=45682164&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://mbleigh.dev/posts/context-engineering-with-links/">Context engineering is sleeping on the humble hyperlink</a><span class="sitebit comhead"> (<a href="from?site=mbleigh.dev"><span class="sitestr">mbleigh.dev</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First shape found that can't pass through itself]]></title>
+        <id>https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/</id>
+        <link href="https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45694856" href="vote?id=45694856&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/">First shape found that can't pass through itself</a><span class="sitebit comhead"> (<a href="from?site=quantamagazine.org"><span class="sitestr">quantamagazine.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I invited strangers to message me through a receipt printer]]></title>
+        <id>https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/</id>
+        <link href="https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45633877" href="vote?id=45633877&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/">I invited strangers to message me through a receipt printer</a><span class="sitebit comhead"> (<a href="from?site=aschmelyun.com"><span class="sitestr">aschmelyun.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing America's Heat Pump Moment]]></title>
+        <id>https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment</id>
+        <link href="https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45698554" href="vote?id=45698554&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment">Harnessing America's Heat Pump Moment</a><span class="sitebit comhead"> (<a href="from?site=heatpumped.org"><span class="sitestr">heatpumped.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepagent: A powerful desktop AI assistant]]></title>
+        <id>https://deepagent.abacus.ai/</id>
+        <link href="https://deepagent.abacus.ai/"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45700720" href="vote?id=45700720&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://deepagent.abacus.ai">Deepagent: A powerful desktop AI assistant</a><span class="sitebit comhead"> (<a href="from?site=abacus.ai"><span class="sitestr">abacus.ai</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice for New Principal Tech ICs (I.e., Notes to Myself)]]></title>
+        <id>https://eugeneyan.com/writing/principal/</id>
+        <link href="https://eugeneyan.com/writing/principal/"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45700911" href="vote?id=45700911&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://eugeneyan.com/writing/principal/" rel="nofollow">Advice for New Principal Tech ICs (I.e., Notes to Myself)</a><span class="sitebit comhead"> (<a href="from?site=eugeneyan.com"><span class="sitestr">eugeneyan.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Like a Surgeon]]></title>
+        <id>https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon</id>
+        <link href="https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon"/>
+        <updated>2025-10-25T04:52:02.411Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45695621" href="vote?id=45695621&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon">Code Like a Surgeon</a><span class="sitebit comhead"> (<a href="from?site=geoffreylitt.com"><span class="sitestr">geoffreylitt.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make a Smith chart]]></title>
+        <id>https://www.johndcook.com/blog/2025/10/23/smith-chart/</id>
+        <link href="https://www.johndcook.com/blog/2025/10/23/smith-chart/"/>
+        <updated>2025-10-25T04:52:02.417Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45696838" href="vote?id=45696838&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.johndcook.com/blog/2025/10/23/smith-chart/">How to make a Smith chart</a><span class="sitebit comhead"> (<a href="from?site=johndcook.com"><span class="sitestr">johndcook.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study: MRI contrast agent causes harmful metal buildup in some patients]]></title>
+        <id>https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/</id>
+        <link href="https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/"/>
+        <updated>2025-10-25T04:52:02.419Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45698909" href="vote?id=45698909&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/">Study: MRI contrast agent causes harmful metal buildup in some patients</a><span class="sitebit comhead"> (<a href="from?site=ormanager.com"><span class="sitestr">ormanager.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Montessori programs strengthen learning outcomes at lower costs: study]]></title>
+        <id>https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html</id>
+        <link href="https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html"/>
+        <updated>2025-10-25T04:52:02.419Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45674002" href="vote?id=45674002&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html">Public Montessori programs strengthen learning outcomes at lower costs: study</a><span class="sitebit comhead"> (<a href="from?site=phys.org"><span class="sitestr">phys.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twake Drive – An open-source alternative to Google Drive]]></title>
+        <id>https://github.com/linagora/twake-drive</id>
+        <link href="https://github.com/linagora/twake-drive"/>
+        <updated>2025-10-25T04:52:02.419Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45692984" href="vote?id=45692984&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/linagora/twake-drive">Twake Drive – An open-source alternative to Google Drive</a><span class="sitebit comhead"> (<a href="from?site=github.com/linagora"><span class="sitestr">github.com/linagora</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Perfect Hashing]]></title>
+        <id>https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html</id>
+        <link href="https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html"/>
+        <updated>2025-10-25T04:52:02.419Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45689905" href="vote?id=45689905&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html">Modern Perfect Hashing</a><span class="sitebit comhead"> (<a href="from?site=sesse.net"><span class="sitestr">sesse.net</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why formalize mathematics – more than catching errors]]></title>
+        <id>https://rkirov.github.io/posts/why_lean/</id>
+        <link href="https://rkirov.github.io/posts/why_lean/"/>
+        <updated>2025-10-25T04:52:02.420Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45632894" href="vote?id=45632894&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://rkirov.github.io/posts/why_lean/">Why formalize mathematics – more than catching errors</a><span class="sitebit comhead"> (<a href="from?site=rkirov.github.io"><span class="sitestr">rkirov.github.io</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Great Butterfly Heist]]></title>
+        <id>https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums</id>
+        <link href="https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums"/>
+        <updated>2025-10-25T04:52:02.420Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45665612" href="vote?id=45665612&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums">The Great Butterfly Heist</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The fix wasn't easy, or C precedence bites]]></title>
+        <id>https://boston.conman.org/2025/10/20.1</id>
+        <link href="https://boston.conman.org/2025/10/20.1"/>
+        <updated>2025-10-25T04:52:02.420Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45665515" href="vote?id=45665515&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://boston.conman.org/2025/10/20.1" rel="nofollow">The fix wasn't easy, or C precedence bites</a><span class="sitebit comhead"> (<a href="from?site=conman.org"><span class="sitestr">conman.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco]]></title>
+        <id>https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer</id>
+        <link href="https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer"/>
+        <updated>2025-10-25T04:52:02.420Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer">Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco</a><span class="sitebit comhead"> (<a href="from?site=ycombinator.com"><span class="sitestr">ycombinator.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesh2Motion – Open-source web application to animate 3D models]]></title>
+        <id>https://mesh2motion.org/</id>
+        <link href="https://mesh2motion.org/"/>
+        <updated>2025-10-25T04:52:02.421Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45693325" href="vote?id=45693325&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://mesh2motion.org/">Mesh2Motion – Open-source web application to animate 3D models</a><span class="sitebit comhead"> (<a href="from?site=mesh2motion.org"><span class="sitestr">mesh2motion.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Underdetermined Weaving with Machines (2021) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=on_sK8KoObo</id>
+        <link href="https://www.youtube.com/watch?v=on_sK8KoObo"/>
+        <updated>2025-10-25T04:52:02.424Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45700932" href="vote?id=45700932&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.youtube.com/watch?v=on_sK8KoObo" rel="nofollow">Underdetermined Weaving with Machines (2021) [video]</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why can't transformers learn multiplication?]]></title>
+        <id>https://arxiv.org/abs/2510.00184</id>
+        <link href="https://arxiv.org/abs/2510.00184"/>
+        <updated>2025-10-25T04:52:02.428Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45660753" href="vote?id=45660753&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arxiv.org/abs/2510.00184">Why can't transformers learn multiplication?</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian Technical Committee overrides systemd change]]></title>
+        <id>https://lwn.net/Articles/1041316/</id>
+        <link href="https://lwn.net/Articles/1041316/"/>
+        <updated>2025-10-25T04:52:02.429Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45692915" href="vote?id=45692915&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lwn.net/Articles/1041316/">Debian Technical Committee overrides systemd change</a><span class="sitebit comhead"> (<a href="from?site=lwn.net"><span class="sitestr">lwn.net</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typst 0.14]]></title>
+        <id>https://typst.app/blog/2025/typst-0.14/</id>
+        <link href="https://typst.app/blog/2025/typst-0.14/"/>
+        <updated>2025-10-25T04:52:02.431Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45693978" href="vote?id=45693978&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://typst.app/blog/2025/typst-0.14/">Typst 0.14</a><span class="sitebit comhead"> (<a href="from?site=typst.app"><span class="sitestr">typst.app</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New OSM file format: 30% smaller than PBF, 5x faster to import]]></title>
+        <id>https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151</id>
+        <link href="https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151"/>
+        <updated>2025-10-25T04:52:02.431Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45699725" href="vote?id=45699725&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151">New OSM file format: 30% smaller than PBF, 5x faster to import</a><span class="sitebit comhead"> (<a href="from?site=openstreetmap.org"><span class="sitestr">openstreetmap.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interstellar Mission to a Black Hole]]></title>
+        <id>https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/</id>
+        <link href="https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/"/>
+        <updated>2025-10-25T04:52:02.432Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45692585" href="vote?id=45692585&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/">Interstellar Mission to a Black Hole</a><span class="sitebit comhead"> (<a href="from?site=centauri-dreams.org"><span class="sitestr">centauri-dreams.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextEdit and the relief of simple software]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software"/>
+        <updated>2025-10-25T04:52:02.433Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45698716" href="vote?id=45698716&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software">TextEdit and the relief of simple software</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Attention is all you need' coauthor says he's 'sick' of transformers]]></title>
+        <id>https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers</id>
+        <link href="https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"/>
+        <updated>2025-10-25T04:52:02.435Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45690840" href="vote?id=45690840&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers">'Attention is all you need' coauthor says he's 'sick' of transformers</a><span class="sitebit comhead"> (<a href="from?site=venturebeat.com"><span class="sitestr">venturebeat.com</span></a>)</span></span></td>]]></content>
+    </entry>
 </feed>
