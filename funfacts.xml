@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.ycombinator.com/news</id>
+    <title>hacker news</title>
+    <updated>2025-10-25T04:24:36.796Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.ycombinator.com/y18.svg</icon>
+</feed>
