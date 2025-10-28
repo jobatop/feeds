@@ -2,217 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/news</id>
     <title>Hacker News</title>
-    <updated>2025-10-27T17:44:25.463Z</updated>
+    <updated>2025-10-28T05:46:31.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]]]></title>
-        <id>https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf</id>
-        <link href="https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf"/>
-        <updated>2025-10-27T17:44:21.751Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45721801" href="vote?id=45721801&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf">Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]</a><span class="sitebit comhead"> (<a href="from?site=cmog.org"><span class="sitestr">cmog.org</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Easy RISC-V]]></title>
+        <id>https://dramforever.github.io/easyriscv/</id>
+        <link href="https://dramforever.github.io/easyriscv/"/>
+        <updated>2025-10-28T05:46:26.956Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45726192" href="vote?id=45726192&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://dramforever.github.io/easyriscv/">Easy RISC-V</a><span class="sitebit comhead"> (<a href="from?site=dramforever.github.io"><span class="sitestr">dramforever.github.io</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JetKVM Is Now Available for Retail Purchase]]></title>
-        <id>https://jetkvm.com/products</id>
-        <link href="https://jetkvm.com/products"/>
-        <updated>2025-10-27T17:44:21.751Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45723159" href="vote?id=45723159&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://jetkvm.com/products">JetKVM Is Now Available for Retail Purchase</a><span class="sitebit comhead"> (<a href="from?site=jetkvm.com"><span class="sitestr">jetkvm.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid 2:00 and 3:00 am cron jobs (2013)]]></title>
-        <id>https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/</id>
-        <link href="https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/"/>
-        <updated>2025-10-27T17:44:21.751Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45723554" href="vote?id=45723554&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/">Avoid 2:00 and 3:00 am cron jobs (2013)</a><span class="sitebit comhead"> (<a href="from?site=endpointdev.com"><span class="sitestr">endpointdev.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[10M people watched a YouTuber shim a lock; the lock company sued him – bad idea]]></title>
+        <id>https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/</id>
+        <link href="https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/"/>
+        <updated>2025-10-28T05:46:26.969Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45720376" href="vote?id=45720376&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/">10M people watched a YouTuber shim a lock; the lock company sued him – bad idea</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude for Excel]]></title>
         <id>https://www.claude.com/claude-for-excel</id>
         <link href="https://www.claude.com/claude-for-excel"/>
         <updated>2025-10-27T17:44:21.752Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45722639" href="vote?id=45722639&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.claude.com/claude-for-excel">Claude for Excel</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45722639" href="vote?id=45722639&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.claude.com/claude-for-excel">Claude for Excel</a><span class="sitebit comhead"> (<a href="from?site=claude.com"><span class="sitestr">claude.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It's insulting to read AI-generated blog posts]]></title>
-        <id>https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/</id>
-        <link href="https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/"/>
-        <updated>2025-10-27T17:44:21.752Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45722069" href="vote?id=45722069&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/">It's insulting to read AI-generated blog posts</a><span class="sitebit comhead"> (<a href="from?site=pabloecortez.com"><span class="sitestr">pabloecortez.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Complete Digitization of Leonardo da Vinci's Codex Atlanticus]]></title>
+        <id>https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html</id>
+        <link href="https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html"/>
+        <updated>2025-10-28T05:46:26.970Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45728975" href="vote?id=45728975&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html">Complete Digitization of Leonardo da Vinci's Codex Atlanticus</a><span class="sitebit comhead"> (<a href="from?site=openculture.com"><span class="sitestr">openculture.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust cross-platform GPUI components]]></title>
-        <id>https://github.com/longbridge/gpui-component</id>
-        <link href="https://github.com/longbridge/gpui-component"/>
-        <updated>2025-10-27T17:44:21.752Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45719004" href="vote?id=45719004&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/longbridge/gpui-component">Rust cross-platform GPUI components</a><span class="sitebit comhead"> (<a href="from?site=github.com/longbridge"><span class="sitestr">github.com/longbridge</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Simplify your code: Functional core, imperative shell]]></title>
+        <id>https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html</id>
+        <link href="https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html"/>
+        <updated>2025-10-28T05:46:26.970Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45701901" href="vote?id=45701901&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html">Simplify your code: Functional core, imperative shell</a><span class="sitebit comhead"> (<a href="from?site=googleblog.com"><span class="sitestr">googleblog.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sieve (YC X25) Is Hiring Engineers to build video datasets for frontier AI]]></title>
-        <id>https://www.sievedata.com/</id>
-        <link href="https://www.sievedata.com/"/>
-        <updated>2025-10-27T17:44:21.752Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://www.sievedata.com/">Sieve (YC X25) Is Hiring Engineers to build video datasets for frontier AI</a><span class="sitebit comhead"> (<a href="from?site=sievedata.com"><span class="sitestr">sievedata.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[JetKVM – Control any computer remotely]]></title>
+        <id>https://jetkvm.com/</id>
+        <link href="https://jetkvm.com/"/>
+        <updated>2025-10-28T05:46:26.970Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45723159" href="vote?id=45723159&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://jetkvm.com/">JetKVM – Control any computer remotely</a><span class="sitebit comhead"> (<a href="from?site=jetkvm.com"><span class="sitestr">jetkvm.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fnox, a secret manager that pairs well with mise]]></title>
-        <id>https://github.com/jdx/mise/discussions/6779</id>
-        <link href="https://github.com/jdx/mise/discussions/6779"/>
-        <updated>2025-10-27T17:44:21.753Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45722931" href="vote?id=45722931&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/jdx/mise/discussions/6779">fnox, a secret manager that pairs well with mise</a><span class="sitebit comhead"> (<a href="from?site=github.com/jdx"><span class="sitestr">github.com/jdx</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Tough truths about climate]]></title>
+        <id>https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate</id>
+        <link href="https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate"/>
+        <updated>2025-10-28T05:46:26.971Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45729265" href="vote?id=45729265&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate">Tough truths about climate</a><span class="sitebit comhead"> (<a href="from?site=gatesnotes.com"><span class="sitestr">gatesnotes.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Busy Beaver Hunters Fear the Antihydra]]></title>
+        <title type="html"><![CDATA[Study finds growing social circles may fuel polarization]]></title>
+        <id>https://phys.org/news/2025-10-friends-division-social-circles-fuel.html</id>
+        <link href="https://phys.org/news/2025-10-friends-division-social-circles-fuel.html"/>
+        <updated>2025-10-28T05:46:26.971Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45725009" href="vote?id=45725009&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://phys.org/news/2025-10-friends-division-social-circles-fuel.html">Study finds growing social circles may fuel polarization</a><span class="sitebit comhead"> (<a href="from?site=phys.org"><span class="sitestr">phys.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iroh-blobs]]></title>
+        <id>https://www.iroh.computer/blog/iroh-blobs-0-95-new-features</id>
+        <link href="https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"/>
+        <updated>2025-10-28T05:46:26.971Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45727557" href="vote?id=45727557&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.iroh.computer/blog/iroh-blobs-0-95-new-features">Iroh-blobs</a><span class="sitebit comhead"> (<a href="from?site=iroh.computer"><span class="sitestr">iroh.computer</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]]]></title>
+        <id>https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf</id>
+        <link href="https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf"/>
+        <updated>2025-10-27T17:44:21.751Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45721801" href="vote?id=45721801&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf">Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]</a><span class="sitebit comhead"> (<a href="from?site=cmog.org"><span class="sitestr">cmog.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI says over a million people talk to ChatGPT about suicide weekly]]></title>
+        <id>https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</id>
+        <link href="https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/"/>
+        <updated>2025-10-28T05:46:26.971Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45727060" href="vote?id=45727060&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/">OpenAI says over a million people talk to ChatGPT about suicide weekly</a><span class="sitebit comhead"> (<a href="from?site=techcrunch.com"><span class="sitestr">techcrunch.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Busy Beaver hunters fear the Antihydra]]></title>
         <id>https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/</id>
         <link href="https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"/>
         <updated>2025-10-27T17:44:21.755Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45723359" href="vote?id=45723359&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/">Why Busy Beaver Hunters Fear the Antihydra</a><span class="sitebit comhead"> (<a href="from?site=benbrubaker.com"><span class="sitestr">benbrubaker.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45723359" href="vote?id=45723359&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/">Why Busy Beaver hunters fear the Antihydra</a><span class="sitebit comhead"> (<a href="from?site=benbrubaker.com"><span class="sitestr">benbrubaker.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artificial Writing and Automated Detection [pdf]]]></title>
-        <id>https://www.nber.org/system/files/working_papers/w34223/w34223.pdf</id>
-        <link href="https://www.nber.org/system/files/working_papers/w34223/w34223.pdf"/>
-        <updated>2025-10-27T17:44:21.758Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45723558" href="vote?id=45723558&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.nber.org/system/files/working_papers/w34223/w34223.pdf" rel="nofollow">Artificial Writing and Automated Detection [pdf]</a><span class="sitebit comhead"> (<a href="from?site=nber.org"><span class="sitestr">nber.org</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[The Light of "The Brothers Karamazov"]]></title>
+        <id>https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov</id>
+        <link href="https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov"/>
+        <updated>2025-10-28T05:46:26.983Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45691002" href="vote?id=45691002&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.newyorker.com/books/second-read/the-light-of-the-brothers-karamazov">The Light of "The Brothers Karamazov"</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't forget these tags to make HTML work like you expect]]></title>
-        <id>https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/</id>
-        <link href="https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/"/>
-        <updated>2025-10-27T17:44:21.759Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45719140" href="vote?id=45719140&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/">Don't forget these tags to make HTML work like you expect</a><span class="sitebit comhead"> (<a href="from?site=jim-nielsen.com"><span class="sitestr">jim-nielsen.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files]]></title>
+        <id>https://seclists.org/oss-sec/2025/q4/79</id>
+        <link href="https://seclists.org/oss-sec/2025/q4/79"/>
+        <updated>2025-10-28T05:46:26.983Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45727137" href="vote?id=45727137&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://seclists.org/oss-sec/2025/q4/79">Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files</a><span class="sitebit comhead"> (<a href="from?site=seclists.org"><span class="sitestr">seclists.org</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Erdos – open-source, AI data science IDE]]></title>
-        <id>https://www.lotas.ai/erdos</id>
-        <link href="https://www.lotas.ai/erdos"/>
-        <updated>2025-10-27T17:44:21.761Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45722635" href="vote?id=45722635&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.lotas.ai/erdos">Show HN: Erdos – open-source, AI data science IDE</a><span class="sitebit comhead"> (<a href="from?site=lotas.ai"><span class="sitestr">lotas.ai</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[MCP-Scanner – Scan MCP Servers for vulnerabilities]]></title>
+        <id>https://github.com/cisco-ai-defense/mcp-scanner</id>
+        <link href="https://github.com/cisco-ai-defense/mcp-scanner"/>
+        <updated>2025-10-28T05:46:26.983Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45723699" href="vote?id=45723699&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/cisco-ai-defense/mcp-scanner">MCP-Scanner – Scan MCP Servers for vulnerabilities</a><span class="sitebit comhead"> (<a href="from?site=github.com/cisco-ai-defense"><span class="sitestr">github.com/cisco-ai-defense</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let the little guys in: A context sharing runtime for the personalised web]]></title>
-        <id>https://arjun.md/little-guys</id>
-        <link href="https://arjun.md/little-guys"/>
-        <updated>2025-10-27T17:44:21.763Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45723828" href="vote?id=45723828&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arjun.md/little-guys" rel="nofollow">Let the little guys in: A context sharing runtime for the personalised web</a><span class="sitebit comhead"> (<a href="from?site=arjun.md"><span class="sitestr">arjun.md</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[The new calculus of AI-based coding]]></title>
+        <id>https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html</id>
+        <link href="https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"/>
+        <updated>2025-10-28T05:46:26.983Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45723686" href="vote?id=45723686&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html">The new calculus of AI-based coding</a><span class="sitebit comhead"> (<a href="from?site=joemag.dev"><span class="sitestr">joemag.dev</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft in court for allegedly misleading Australians over 365 subscriptions]]></title>
-        <id>https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions</id>
-        <link href="https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions"/>
-        <updated>2025-10-27T17:44:21.765Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45721682" href="vote?id=45721682&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions">Microsoft in court for allegedly misleading Australians over 365 subscriptions</a><span class="sitebit comhead"> (<a href="from?site=accc.gov.au"><span class="sitestr">accc.gov.au</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Smartphones manipulate our emotions and trigger our reflexes]]></title>
+        <id>https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014</id>
+        <link href="https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014"/>
+        <updated>2025-10-28T05:46:26.984Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45714348" href="vote?id=45714348&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014">Smartphones manipulate our emotions and trigger our reflexes</a><span class="sitebit comhead"> (<a href="from?site=theconversation.com"><span class="sitestr">theconversation.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Life next to 199 data centres]]></title>
-        <id>https://www.bbc.com/news/articles/c93dnnxewdvo</id>
-        <link href="https://www.bbc.com/news/articles/c93dnnxewdvo"/>
-        <updated>2025-10-27T17:44:21.767Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45723249" href="vote?id=45723249&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.bbc.com/news/articles/c93dnnxewdvo" rel="nofollow">Life next to 199 data centres</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[TOON – Token Oriented Object Notation]]></title>
+        <id>https://github.com/johannschopplich/toon</id>
+        <link href="https://github.com/johannschopplich/toon"/>
+        <updated>2025-10-28T05:46:26.988Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45715632" href="vote?id=45715632&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/johannschopplich/toon">TOON – Token Oriented Object Notation</a><span class="sitebit comhead"> (<a href="from?site=github.com/johannschopplich"><span class="sitestr">github.com/johannschopplich</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON Query]]></title>
+        <title type="html"><![CDATA[The last European train that travels by sea]]></title>
+        <id>https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea</id>
+        <link href="https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"/>
+        <updated>2025-10-28T05:46:26.989Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45718711" href="vote?id=45718711&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea">The last European train that travels by sea</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating an all-weather driver]]></title>
+        <id>https://waymo.com/blog/2025/10/creating-an-all-weather-driver</id>
+        <link href="https://waymo.com/blog/2025/10/creating-an-all-weather-driver"/>
+        <updated>2025-10-28T05:46:26.990Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45724913" href="vote?id=45724913&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://waymo.com/blog/2025/10/creating-an-all-weather-driver">Creating an all-weather driver</a><span class="sitebit comhead"> (<a href="from?site=waymo.com"><span class="sitestr">waymo.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image Dithering: Eleven Algorithms and Source Code (2012)]]></title>
+        <id>https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html</id>
+        <link href="https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html"/>
+        <updated>2025-10-28T05:46:26.993Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45698323" href="vote?id=45698323&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html">Image Dithering: Eleven Algorithms and Source Code (2012)</a><span class="sitebit comhead"> (<a href="from?site=tannerhelland.com"><span class="sitestr">tannerhelland.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: JSON Query]]></title>
         <id>https://jsonquerylang.org/</id>
         <link href="https://jsonquerylang.org/"/>
         <updated>2025-10-27T17:44:21.769Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45722826" href="vote?id=45722826&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://jsonquerylang.org/" rel="nofollow">JSON Query</a><span class="sitebit comhead"> (<a href="from?site=jsonquerylang.org"><span class="sitestr">jsonquerylang.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WorldGrow: Generating Infinite 3D World]]></title>
-        <id>https://github.com/world-grow/WorldGrow</id>
-        <link href="https://github.com/world-grow/WorldGrow"/>
-        <updated>2025-10-27T17:44:21.773Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45718908" href="vote?id=45718908&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/world-grow/WorldGrow">WorldGrow: Generating Infinite 3D World</a><span class="sitebit comhead"> (<a href="from?site=github.com/world-grow"><span class="sitestr">github.com/world-grow</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Dlog – Journaling and AI coach that learns what drives well-being (Mac)]]></title>
-        <id>https://dlog.pro/</id>
-        <link href="https://dlog.pro/"/>
-        <updated>2025-10-27T17:44:21.774Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45723646" href="vote?id=45723646&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://dlog.pro/" rel="nofollow">Show HN: Dlog – Journaling and AI coach that learns what drives well-being (Mac)</a><span class="sitebit comhead"> (<a href="from?site=dlog.pro"><span class="sitestr">dlog.pro</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eight Million Copies of Moby-Dick]]></title>
-        <id>https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/</id>
-        <link href="https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/"/>
-        <updated>2025-10-27T17:44:21.776Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45677253" href="vote?id=45677253&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/">Eight Million Copies of Moby-Dick</a><span class="sitebit comhead"> (<a href="from?site=thevoltablog.wordpress.com"><span class="sitestr">thevoltablog.wordpress.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Git Auto Commit (GAC) – LLM-powered Git commit command line tool]]></title>
-        <id>https://github.com/cellwebb/gac</id>
-        <link href="https://github.com/cellwebb/gac"/>
-        <updated>2025-10-27T17:44:21.778Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45723533" href="vote?id=45723533&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/cellwebb/gac" rel="nofollow">Show HN: Git Auto Commit (GAC) – LLM-powered Git commit command line tool</a><span class="sitebit comhead"> (<a href="from?site=github.com/cellwebb"><span class="sitestr">github.com/cellwebb</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should LLMs just treat text content as an image?]]></title>
-        <id>https://www.seangoedecke.com/text-tokens-as-image-tokens/</id>
-        <link href="https://www.seangoedecke.com/text-tokens-as-image-tokens/"/>
-        <updated>2025-10-27T17:44:21.778Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45652952" href="vote?id=45652952&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.seangoedecke.com/text-tokens-as-image-tokens/">Should LLMs just treat text content as an image?</a><span class="sitebit comhead"> (<a href="from?site=seangoedecke.com"><span class="sitestr">seangoedecke.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45722826" href="vote?id=45722826&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://jsonquerylang.org/">Show HN: JSON Query</a><span class="sitebit comhead"> (<a href="from?site=jsonquerylang.org"><span class="sitestr">jsonquerylang.org</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Corrosion]]></title>
         <id>https://fly.io/blog/corrosion/</id>
         <link href="https://fly.io/blog/corrosion/"/>
         <updated>2025-10-27T17:44:21.779Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45680583" href="vote?id=45680583&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://fly.io/blog/corrosion/">Corrosion</a><span class="sitebit comhead"> (<a href="from?site=fly.io"><span class="sitestr">fly.io</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45680583" href="vote?id=45680583&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://fly.io/blog/corrosion/">Corrosion</a><span class="sitebit comhead"> (<a href="from?site=fly.io"><span class="sitestr">fly.io</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)]]></title>
-        <id>https://github.com/dvir-biton/MyraOS</id>
-        <link href="https://github.com/dvir-biton/MyraOS"/>
-        <updated>2025-10-27T05:48:09.419Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45715055" href="vote?id=45715055&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/dvir-biton/MyraOS">Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)</a><span class="sitebit comhead"> (<a href="from?site=github.com/dvir-biton"><span class="sitestr">github.com/dvir-biton</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[PSF has withdrawn $1.5M proposal to US Government grant program]]></title>
+        <id>https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html</id>
+        <link href="https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html"/>
+        <updated>2025-10-28T05:46:26.999Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45721904" href="vote?id=45721904&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html">PSF has withdrawn $1.5M proposal to US Government grant program</a><span class="sitebit comhead"> (<a href="from?site=pyfound.blogspot.com"><span class="sitestr">pyfound.blogspot.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unexpected patterns in historical astronomical observations]]></title>
-        <id>https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042</id>
-        <link href="https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042"/>
-        <updated>2025-10-27T17:44:21.781Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45683643" href="vote?id=45683643&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042">Unexpected patterns in historical astronomical observations</a><span class="sitebit comhead"> (<a href="from?site=su.se"><span class="sitestr">su.se</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[AI can code, but it can't build software]]></title>
+        <id>https://bytesauna.com/post/coding-vs-software-engineering</id>
+        <link href="https://bytesauna.com/post/coding-vs-software-engineering"/>
+        <updated>2025-10-28T05:46:26.999Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45727664" href="vote?id=45727664&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://bytesauna.com/post/coding-vs-software-engineering">AI can code, but it can't build software</a><span class="sitebit comhead"> (<a href="from?site=bytesauna.com"><span class="sitestr">bytesauna.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I'm teaching kids to hack computers]]></title>
-        <id>https://www.hacktivate.app/why-teach-kids-to-hack</id>
-        <link href="https://www.hacktivate.app/why-teach-kids-to-hack"/>
-        <updated>2025-10-27T17:44:21.783Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45669394" href="vote?id=45669394&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.hacktivate.app/why-teach-kids-to-hack">Why I'm teaching kids to hack computers</a><span class="sitebit comhead"> (<a href="from?site=hacktivate.app"><span class="sitestr">hacktivate.app</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)]]></title>
+        <id>https://dlog.pro/</id>
+        <link href="https://dlog.pro/"/>
+        <updated>2025-10-27T17:44:21.774Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45723646" href="vote?id=45723646&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://dlog.pro/">Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)</a><span class="sitebit comhead"> (<a href="from?site=dlog.pro"><span class="sitestr">dlog.pro</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-emptive Z80 multitasking explainer]]></title>
-        <id>https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking</id>
-        <link href="https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking"/>
-        <updated>2025-10-27T17:44:21.785Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45720345" href="vote?id=45720345&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking">Pre-emptive Z80 multitasking explainer</a><span class="sitebit comhead"> (<a href="from?site=github.com/bchiha"><span class="sitestr">github.com/bchiha</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Fnox, a secret manager that pairs well with mise]]></title>
+        <id>https://github.com/jdx/mise/discussions/6779</id>
+        <link href="https://github.com/jdx/mise/discussions/6779"/>
+        <updated>2025-10-27T17:44:21.753Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45722931" href="vote?id=45722931&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/jdx/mise/discussions/6779">Fnox, a secret manager that pairs well with mise</a><span class="sitebit comhead"> (<a href="from?site=github.com/jdx"><span class="sitestr">github.com/jdx</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Viral 'Free Potatoes' Post Cost This Farmer 150 Tons of Crops]]></title>
-        <id>https://www.vice.com/en/article/viral-free-potatoes-post-cost-this-farmer-150-tons-of-crops/</id>
-        <link href="https://www.vice.com/en/article/viral-free-potatoes-post-cost-this-farmer-150-tons-of-crops/"/>
-        <updated>2025-10-27T17:44:21.787Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45664765" href="vote?id=45664765&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.vice.com/en/article/viral-free-potatoes-post-cost-this-farmer-150-tons-of-crops/">Viral 'Free Potatoes' Post Cost This Farmer 150 Tons of Crops</a><span class="sitebit comhead"> (<a href="from?site=vice.com"><span class="sitestr">vice.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Sieve (YC X25) is hiring engineers to build video datasets for frontier AI]]></title>
+        <id>https://www.sievedata.com/</id>
+        <link href="https://www.sievedata.com/"/>
+        <updated>2025-10-27T17:44:21.752Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://www.sievedata.com/">Sieve (YC X25) is hiring engineers to build video datasets for frontier AI</a><span class="sitebit comhead"> (<a href="from?site=sievedata.com"><span class="sitestr">sievedata.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I turned Zig into my favorite language to write network programs in]]></title>
-        <id>https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</id>
-        <link href="https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"/>
-        <updated>2025-10-27T05:48:09.416Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45716109" href="vote?id=45716109&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html">How I turned Zig into my favorite language to write network programs in</a><span class="sitebit comhead"> (<a href="from?site=lalinsky.com"><span class="sitestr">lalinsky.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Why Nigeria accepted GMOs]]></title>
+        <id>https://www.asimov.press/p/nigeria-crops</id>
+        <link href="https://www.asimov.press/p/nigeria-crops"/>
+        <updated>2025-10-28T05:46:27.006Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45724045" href="vote?id=45724045&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.asimov.press/p/nigeria-crops">Why Nigeria accepted GMOs</a><span class="sitebit comhead"> (<a href="from?site=asimov.press"><span class="sitestr">asimov.press</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft needs to open up more about its OpenAI dealings]]></title>
-        <id>https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8</id>
-        <link href="https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8"/>
-        <updated>2025-10-27T17:44:21.789Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45719669" href="vote?id=45719669&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8">Microsoft needs to open up more about its OpenAI dealings</a><span class="sitebit comhead"> (<a href="from?site=wsj.com"><span class="sitestr">wsj.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You are how you act]]></title>
-        <id>https://boz.com/articles/you-are-how-you-act</id>
-        <link href="https://boz.com/articles/you-are-how-you-act"/>
-        <updated>2025-10-27T17:44:21.791Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45719788" href="vote?id=45719788&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://boz.com/articles/you-are-how-you-act">You are how you act</a><span class="sitebit comhead"> (<a href="from?site=boz.com"><span class="sitestr">boz.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Erdos – open-source, AI data science IDE]]></title>
+        <id>https://www.lotas.ai/erdos</id>
+        <link href="https://www.lotas.ai/erdos"/>
+        <updated>2025-10-27T17:44:21.761Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45722635" href="vote?id=45722635&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.lotas.ai/erdos">Show HN: Erdos – open-source, AI data science IDE</a><span class="sitebit comhead"> (<a href="from?site=lotas.ai"><span class="sitestr">lotas.ai</span></a>)</span></span></td>]]></content>
     </entry>
 </feed>
