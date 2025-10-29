@@ -2,217 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/news</id>
     <title>Hacker News</title>
-    <updated>2025-10-28T17:44:19.715Z</updated>
+    <updated>2025-10-29T05:45:45.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Using AI to negotiate a $195k hospital bill down to $33k]]></title>
-        <id>https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw</id>
-        <link href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw"/>
-        <updated>2025-10-28T17:44:16.200Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45734582" href="vote?id=45734582&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw">Using AI to negotiate a $195k hospital bill down to $33k</a><span class="sitebit comhead"> (<a href="from?site=threads.com"><span class="sitestr">threads.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Keep Android Open]]></title>
+        <id>http://keepandroidopen.org/</id>
+        <link href="http://keepandroidopen.org/"/>
+        <updated>2025-10-29T05:45:41.667Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45742488" href="vote?id=45742488&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="http://keepandroidopen.org/">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=keepandroidopen.org"><span class="sitestr">keepandroidopen.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we talk about when we talk about sideloading]]></title>
+        <id>https://f-droid.org/2025/10/28/sideloading.html</id>
+        <link href="https://f-droid.org/2025/10/28/sideloading.html"/>
+        <updated>2025-10-29T05:45:41.668Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45736479" href="vote?id=45736479&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://f-droid.org/2025/10/28/sideloading.html">What we talk about when we talk about sideloading</a><span class="sitebit comhead"> (<a href="from?site=f-droid.org"><span class="sitestr">f-droid.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for stroke-surviving software engineers]]></title>
+        <id>https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/</id>
+        <link href="https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/"/>
+        <updated>2025-10-29T05:45:41.669Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45742419" href="vote?id=45742419&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/">Tips for stroke-surviving software engineers</a><span class="sitebit comhead"> (<a href="from?site=j11y.io"><span class="sitestr">j11y.io</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT's Atlas: The Browser That's Anti-Web]]></title>
+        <id>https://www.anildash.com//2025/10/22/atlas-anti-web-browser/</id>
+        <link href="https://www.anildash.com//2025/10/22/atlas-anti-web-browser/"/>
+        <updated>2025-10-29T05:45:41.670Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45702397" href="vote?id=45702397&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.anildash.com//2025/10/22/atlas-anti-web-browser/">ChatGPT's Atlas: The Browser That's Anti-Web</a><span class="sitebit comhead"> (<a href="from?site=anildash.com"><span class="sitestr">anildash.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EuroLLM: LLM made in Europe built to support all 24 official EU languages]]></title>
         <id>https://eurollm.io/</id>
         <link href="https://eurollm.io/"/>
         <updated>2025-10-28T17:44:16.205Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45733707" href="vote?id=45733707&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://eurollm.io/">EuroLLM: LLM made in Europe built to support all 24 official EU languages</a><span class="sitebit comhead"> (<a href="from?site=eurollm.io"><span class="sitestr">eurollm.io</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45733707" href="vote?id=45733707&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://eurollm.io/">EuroLLM: LLM made in Europe built to support all 24 official EU languages</a><span class="sitebit comhead"> (<a href="from?site=eurollm.io"><span class="sitestr">eurollm.io</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vitamin D reduces incidence and duration of colds in those with low levels]]></title>
-        <id>https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/</id>
-        <link href="https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/"/>
-        <updated>2025-10-28T17:44:16.205Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45732670" href="vote?id=45732670&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/">Vitamin D reduces incidence and duration of colds in those with low levels</a><span class="sitebit comhead"> (<a href="from?site=ijmpr.in"><span class="sitestr">ijmpr.in</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Tinkering is a way to acquire good taste]]></title>
+        <id>https://seated.ro/blog/tinkering-a-lost-art</id>
+        <link href="https://seated.ro/blog/tinkering-a-lost-art"/>
+        <updated>2025-10-29T05:45:41.673Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45739499" href="vote?id=45739499&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://seated.ro/blog/tinkering-a-lost-art">Tinkering is a way to acquire good taste</a><span class="sitebit comhead"> (<a href="from?site=seated.ro"><span class="sitestr">seated.ro</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A brief history of random numbers]]></title>
-        <id>https://crates.io/crates/oorandom#a-brief-history-of-random-numbers</id>
-        <link href="https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"/>
-        <updated>2025-10-28T17:44:16.205Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45733412" href="vote?id=45733412&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://crates.io/crates/oorandom#a-brief-history-of-random-numbers">A brief history of random numbers</a><span class="sitebit comhead"> (<a href="from?site=crates.io"><span class="sitestr">crates.io</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Generative AI Image Editing Showdown]]></title>
+        <id>https://genai-showdown.specr.net/image-editing</id>
+        <link href="https://genai-showdown.specr.net/image-editing"/>
+        <updated>2025-10-29T05:45:41.674Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45739080" href="vote?id=45739080&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://genai-showdown.specr.net/image-editing">Generative AI Image Editing Showdown</a><span class="sitebit comhead"> (<a href="from?site=specr.net"><span class="sitestr">specr.net</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubiquiti SFP Wizard]]></title>
-        <id>https://blog.ui.com/article/welcome-to-sfp-liberation-day</id>
-        <link href="https://blog.ui.com/article/welcome-to-sfp-liberation-day"/>
-        <updated>2025-10-28T17:44:16.205Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45732874" href="vote?id=45732874&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.ui.com/article/welcome-to-sfp-liberation-day">Ubiquiti SFP Wizard</a><span class="sitebit comhead"> (<a href="from?site=ui.com"><span class="sitestr">ui.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Boring is what we wanted]]></title>
+        <id>https://512pixels.net/2025/10/boring-is-what-we-wanted/</id>
+        <link href="https://512pixels.net/2025/10/boring-is-what-we-wanted/"/>
+        <updated>2025-10-29T05:45:41.676Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45738247" href="vote?id=45738247&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://512pixels.net/2025/10/boring-is-what-we-wanted/">Boring is what we wanted</a><span class="sitebit comhead"> (<a href="from?site=512pixels.net"><span class="sitestr">512pixels.net</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple will phase out Rosetta 2 in macOS 28]]></title>
-        <id>https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment</id>
-        <link href="https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment"/>
-        <updated>2025-10-28T17:44:16.205Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45692116" href="vote?id=45692116&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment">Apple will phase out Rosetta 2 in macOS 28</a><span class="sitebit comhead"> (<a href="from?site=developer.apple.com"><span class="sitestr">developer.apple.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Wacl – A Tcl Distribution for WebAssembly]]></title>
+        <id>https://github.com/ecky-l/wacl</id>
+        <link href="https://github.com/ecky-l/wacl"/>
+        <updated>2025-10-29T05:45:41.678Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45742616" href="vote?id=45742616&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/ecky-l/wacl" rel="nofollow">Wacl – A Tcl Distribution for WebAssembly</a><span class="sitebit comhead"> (<a href="from?site=github.com/ecky-l"><span class="sitestr">github.com/ecky-l</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform]]></title>
-        <id>https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3</id>
-        <link href="https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3"/>
-        <updated>2025-10-28T17:44:16.205Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3" rel="nofollow">SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform</a><span class="sitebit comhead"> (<a href="from?site=ashbyhq.com"><span class="sitestr">ashbyhq.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Gluing and framing a 9000-piece jigsaw]]></title>
+        <id>https://river.me/blog/puzzle-glue-9000/</id>
+        <link href="https://river.me/blog/puzzle-glue-9000/"/>
+        <updated>2025-10-29T05:45:41.682Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45709499" href="vote?id=45709499&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://river.me/blog/puzzle-glue-9000/">Gluing and framing a 9000-piece jigsaw</a><span class="sitebit comhead"> (<a href="from?site=river.me"><span class="sitestr">river.me</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Decline of Deviance]]></title>
-        <id>https://www.experimental-history.com/p/the-decline-of-deviance</id>
-        <link href="https://www.experimental-history.com/p/the-decline-of-deviance"/>
-        <updated>2025-10-28T17:44:16.208Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45734620" href="vote?id=45734620&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.experimental-history.com/p/the-decline-of-deviance">The Decline of Deviance</a><span class="sitebit comhead"> (<a href="from?site=experimental-history.com"><span class="sitestr">experimental-history.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Project Shadowglass]]></title>
+        <id>https://shadowglassgame.com/</id>
+        <link href="https://shadowglassgame.com/"/>
+        <updated>2025-10-29T05:45:41.684Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45741391" href="vote?id=45741391&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://shadowglassgame.com">Project Shadowglass</a><span class="sitebit comhead"> (<a href="from?site=shadowglassgame.com"><span class="sitestr">shadowglassgame.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping the Internet fast and secure: introducing Merkle Tree Certificates]]></title>
+        <id>https://blog.cloudflare.com/bootstrap-mtc/</id>
+        <link href="https://blog.cloudflare.com/bootstrap-mtc/"/>
+        <updated>2025-10-29T05:45:41.685Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45740214" href="vote?id=45740214&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.cloudflare.com/bootstrap-mtc/">Keeping the Internet fast and secure: introducing Merkle Tree Certificates</a><span class="sitebit comhead"> (<a href="from?site=cloudflare.com"><span class="sitestr">cloudflare.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The AirPods Pro 3 flight problem]]></title>
         <id>https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem</id>
         <link href="https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"/>
         <updated>2025-10-28T17:44:16.208Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45733329" href="vote?id=45733329&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem">The AirPods Pro 3 flight problem</a><span class="sitebit comhead"> (<a href="from?site=basicappleguy.com"><span class="sitestr">basicappleguy.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45733329" href="vote?id=45733329&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem">The AirPods Pro 3 flight problem</a><span class="sitebit comhead"> (<a href="from?site=basicappleguy.com"><span class="sitestr">basicappleguy.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HOPL: The Human Only Public License]]></title>
-        <id>https://vanderessen.com/posts/hopl/</id>
-        <link href="https://vanderessen.com/posts/hopl/"/>
-        <updated>2025-10-28T17:44:16.210Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45735044" href="vote?id=45735044&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://vanderessen.com/posts/hopl/">HOPL: The Human Only Public License</a><span class="sitebit comhead"> (<a href="from?site=vanderessen.com"><span class="sitestr">vanderessen.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Why do some radio towers blink?]]></title>
+        <id>https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink"/>
+        <updated>2025-10-29T05:45:41.688Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45737941" href="vote?id=45737941&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink">Why do some radio towers blink?</a><span class="sitebit comhead"> (<a href="from?site=jeffgeerling.com"><span class="sitestr">jeffgeerling.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our LLM-controlled office robot can't pass butter]]></title>
-        <id>https://andonlabs.com/evals/butter-bench</id>
-        <link href="https://andonlabs.com/evals/butter-bench"/>
-        <updated>2025-10-28T17:44:16.210Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45733169" href="vote?id=45733169&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://andonlabs.com/evals/butter-bench">Our LLM-controlled office robot can't pass butter</a><span class="sitebit comhead"> (<a href="from?site=andonlabs.com"><span class="sitestr">andonlabs.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Fil-C: A memory-safe C implementation]]></title>
+        <id>https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/</id>
+        <link href="https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/"/>
+        <updated>2025-10-29T05:45:41.690Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45735877" href="vote?id=45735877&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/">Fil-C: A memory-safe C implementation</a><span class="sitebit comhead"> (<a href="from?site=lwn.net"><span class="sitestr">lwn.net</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: ISS in Real Time – 25 Years Aboard the International Space Station]]></title>
-        <id>https://issinrealtime.org/</id>
-        <link href="https://issinrealtime.org/"/>
-        <updated>2025-10-28T17:44:16.211Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45721352" href="vote?id=45721352&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://issinrealtime.org">Show HN: ISS in Real Time – 25 Years Aboard the International Space Station</a><span class="sitebit comhead"> (<a href="from?site=issinrealtime.org"><span class="sitestr">issinrealtime.org</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[HTTPS by default]]></title>
+        <id>https://security.googleblog.com/2025/10/https-by-default.html</id>
+        <link href="https://security.googleblog.com/2025/10/https-by-default.html"/>
+        <updated>2025-10-29T05:45:41.691Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45736499" href="vote?id=45736499&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://security.googleblog.com/2025/10/https-by-default.html">HTTPS by default</a><span class="sitebit comhead"> (<a href="from?site=googleblog.com"><span class="sitestr">googleblog.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text2SQL is dead – long live text2SQL]]></title>
-        <id>https://www.exasol.com/blog/text-to-sql-governance/</id>
-        <link href="https://www.exasol.com/blog/text-to-sql-governance/"/>
-        <updated>2025-10-28T17:44:16.211Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45733525" href="vote?id=45733525&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.exasol.com/blog/text-to-sql-governance/">Text2SQL is dead – long live text2SQL</a><span class="sitebit comhead"> (<a href="from?site=exasol.com"><span class="sitestr">exasol.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Apple will phase out Rosetta 2 in macOS 28]]></title>
+        <id>https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment</id>
+        <link href="https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment"/>
+        <updated>2025-10-28T17:44:16.205Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45692116" href="vote?id=45692116&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment">Apple will phase out Rosetta 2 in macOS 28</a><span class="sitebit comhead"> (<a href="from?site=developer.apple.com"><span class="sitestr">developer.apple.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sick: Indexed deduplicated binary storage for JSON-like data structures]]></title>
-        <id>https://github.com/7mind/sick</id>
-        <link href="https://github.com/7mind/sick"/>
-        <updated>2025-10-28T17:44:16.212Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45732552" href="vote?id=45732552&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/7mind/sick">Sick: Indexed deduplicated binary storage for JSON-like data structures</a><span class="sitebit comhead"> (<a href="from?site=github.com/7mind"><span class="sitestr">github.com/7mind</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Mapping the off-target effects of every FDA-approved drug in existence]]></title>
+        <id>https://www.owlposting.com/p/mapping-the-off-target-effects-of</id>
+        <link href="https://www.owlposting.com/p/mapping-the-off-target-effects-of"/>
+        <updated>2025-10-29T05:45:41.695Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45736608" href="vote?id=45736608&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.owlposting.com/p/mapping-the-off-target-effects-of">Mapping the off-target effects of every FDA-approved drug in existence</a><span class="sitebit comhead"> (<a href="from?site=owlposting.com"><span class="sitestr">owlposting.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Washington Post editorials omit a key disclosure: Bezos' financial ties]]></title>
-        <id>https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties</id>
-        <link href="https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties"/>
-        <updated>2025-10-28T17:44:16.213Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45733197" href="vote?id=45733197&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties">Washington Post editorials omit a key disclosure: Bezos' financial ties</a><span class="sitebit comhead"> (<a href="from?site=npr.org"><span class="sitestr">npr.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a 747 – A WorldFlight Story]]></title>
-        <id>https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/</id>
-        <link href="https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"/>
-        <updated>2025-10-28T17:44:16.215Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45733772" href="vote?id=45733772&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/">How to build a 747 – A WorldFlight Story</a><span class="sitebit comhead"> (<a href="from?site=x-plane.com"><span class="sitestr">x-plane.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Bash Screensavers]]></title>
-        <id>https://github.com/attogram/bash-screensavers</id>
-        <link href="https://github.com/attogram/bash-screensavers"/>
-        <updated>2025-10-28T17:44:16.217Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45731366" href="vote?id=45731366&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/attogram/bash-screensavers">Show HN: Bash Screensavers</a><span class="sitebit comhead"> (<a href="from?site=github.com/attogram"><span class="sitestr">github.com/attogram</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The next chapter of the Microsoft–OpenAI partnership]]></title>
-        <id>https://openai.com/index/next-chapter-of-microsoft-openai-partnership/</id>
-        <link href="https://openai.com/index/next-chapter-of-microsoft-openai-partnership/"/>
-        <updated>2025-10-28T17:44:16.219Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45732350" href="vote?id=45732350&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://openai.com/index/next-chapter-of-microsoft-openai-partnership/">The next chapter of the Microsoft–OpenAI partnership</a><span class="sitebit comhead"> (<a href="from?site=openai.com"><span class="sitestr">openai.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Dexto – Connect your AI Agents with real-world tools and data]]></title>
-        <id>https://github.com/truffle-ai/dexto</id>
-        <link href="https://github.com/truffle-ai/dexto"/>
-        <updated>2025-10-28T17:44:16.220Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45734696" href="vote?id=45734696&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/truffle-ai/dexto" rel="nofollow">Show HN: Dexto – Connect your AI Agents with real-world tools and data</a><span class="sitebit comhead"> (<a href="from?site=github.com/truffle-ai"><span class="sitestr">github.com/truffle-ai</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poker Tournament for LLMs]]></title>
-        <id>https://pokerbattle.ai/event</id>
-        <link href="https://pokerbattle.ai/event"/>
-        <updated>2025-10-28T17:44:16.222Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45730094" href="vote?id=45730094&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://pokerbattle.ai/event">Poker Tournament for LLMs</a><span class="sitebit comhead"> (<a href="from?site=pokerbattle.ai"><span class="sitestr">pokerbattle.ai</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I've been loving Claude Code on the Web]]></title>
-        <id>https://ben.page/claude-code-web</id>
-        <link href="https://ben.page/claude-code-web"/>
-        <updated>2025-10-28T17:44:16.224Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45735264" href="vote?id=45735264&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://ben.page/claude-code-web" rel="nofollow">I've been loving Claude Code on the Web</a><span class="sitebit comhead"> (<a href="from?site=ben.page"><span class="sitestr">ben.page</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Austrian ministry kicks out Microsoft in favor of Nextcloud]]></title>
-        <id>https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/</id>
-        <link href="https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/"/>
-        <updated>2025-10-28T17:44:16.231Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45732485" href="vote?id=45732485&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/">Austrian ministry kicks out Microsoft in favor of Nextcloud</a><span class="sitebit comhead"> (<a href="from?site=itsfoss.com"><span class="sitestr">itsfoss.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Users Verify SSH Keys? (2011) [pdf]]]></title>
-        <id>https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf</id>
-        <link href="https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf"/>
-        <updated>2025-10-28T17:44:16.233Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45687014" href="vote?id=45687014&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf">Do Users Verify SSH Keys? (2011) [pdf]</a><span class="sitebit comhead"> (<a href="from?site=usenix.org"><span class="sitestr">usenix.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas Attorney General sues Tylenol makers over autism claims]]></title>
-        <id>https://www.bbc.com/news/articles/ce9d3n1r08do</id>
-        <link href="https://www.bbc.com/news/articles/ce9d3n1r08do"/>
-        <updated>2025-10-28T17:44:16.234Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45734834" href="vote?id=45734834&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.bbc.com/news/articles/ce9d3n1r08do">Texas Attorney General sues Tylenol makers over autism claims</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Using AI to negotiate a $195k hospital bill down to $33k]]></title>
+        <id>https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw</id>
+        <link href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw"/>
+        <updated>2025-10-28T17:44:16.200Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45734582" href="vote?id=45734582&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw">Using AI to negotiate a $195k hospital bill down to $33k</a><span class="sitebit comhead"> (<a href="from?site=threads.com"><span class="sitestr">threads.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia takes $1B stake in Nokia]]></title>
         <id>https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html</id>
         <link href="https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html"/>
         <updated>2025-10-28T17:44:16.236Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45734486" href="vote?id=45734486&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html">Nvidia takes $1B stake in Nokia</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45734486" href="vote?id=45734486&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html">Nvidia takes $1B stake in Nokia</a><span class="sitebit comhead"> (<a href="from?site=cnbc.com"><span class="sitestr">cnbc.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emily Riehl is rewriting the foundations of higher category theory (2020)]]></title>
-        <id>https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/</id>
-        <link href="https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/"/>
-        <updated>2025-10-28T17:44:16.239Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45676029" href="vote?id=45676029&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/">Emily Riehl is rewriting the foundations of higher category theory (2020)</a><span class="sitebit comhead"> (<a href="from?site=quantamagazine.org"><span class="sitestr">quantamagazine.org</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[We need a clearer framework for AI-assisted contributions to open source]]></title>
+        <id>https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome</id>
+        <link href="https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome"/>
+        <updated>2025-10-29T05:45:41.698Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45731321" href="vote?id=45731321&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome">We need a clearer framework for AI-assisted contributions to open source</a><span class="sitebit comhead"> (<a href="from?site=samsaffron.com"><span class="sitestr">samsaffron.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Science of Satiety per Calorie]]></title>
-        <id>https://www.dietdoctor.com/satiety/science</id>
-        <link href="https://www.dietdoctor.com/satiety/science"/>
-        <updated>2025-10-28T17:44:16.242Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45674822" href="vote?id=45674822&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.dietdoctor.com/satiety/science">The Science of Satiety per Calorie</a><span class="sitebit comhead"> (<a href="from?site=dietdoctor.com"><span class="sitestr">dietdoctor.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Ubiquiti SFP Wizard]]></title>
+        <id>https://blog.ui.com/article/welcome-to-sfp-liberation-day</id>
+        <link href="https://blog.ui.com/article/welcome-to-sfp-liberation-day"/>
+        <updated>2025-10-28T17:44:16.205Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45732874" href="vote?id=45732874&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.ui.com/article/welcome-to-sfp-liberation-day">Ubiquiti SFP Wizard</a><span class="sitebit comhead"> (<a href="from?site=ui.com"><span class="sitestr">ui.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the brain's activity, energy use and blood flow change as people fall asleep]]></title>
-        <id>https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep</id>
-        <link href="https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep"/>
-        <updated>2025-10-28T17:44:16.243Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45701546" href="vote?id=45701546&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep">How the brain's activity, energy use and blood flow change as people fall asleep</a><span class="sitebit comhead"> (<a href="from?site=massgeneralbrigham.org"><span class="sitestr">massgeneralbrigham.org</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Samsung makes ads on smart fridges official with upcoming software update]]></title>
+        <id>https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/</id>
+        <link href="https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/"/>
+        <updated>2025-10-29T05:45:41.702Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45737338" href="vote?id=45737338&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/">Samsung makes ads on smart fridges official with upcoming software update</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Programming Languages Zoo]]></title>
-        <id>https://plzoo.andrej.com/</id>
-        <link href="https://plzoo.andrej.com/"/>
-        <updated>2025-10-28T17:44:16.245Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45678632" href="vote?id=45678632&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://plzoo.andrej.com/">The Programming Languages Zoo</a><span class="sitebit comhead"> (<a href="from?site=andrej.com"><span class="sitestr">andrej.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Our LLM-controlled office robot can't pass butter]]></title>
+        <id>https://andonlabs.com/evals/butter-bench</id>
+        <link href="https://andonlabs.com/evals/butter-bench"/>
+        <updated>2025-10-28T17:44:16.210Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45733169" href="vote?id=45733169&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://andonlabs.com/evals/butter-bench">Our LLM-controlled office robot can't pass butter</a><span class="sitebit comhead"> (<a href="from?site=andonlabs.com"><span class="sitestr">andonlabs.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Easy RISC-V]]></title>
-        <id>https://dramforever.github.io/easyriscv/</id>
-        <link href="https://dramforever.github.io/easyriscv/"/>
-        <updated>2025-10-28T05:46:26.956Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45726192" href="vote?id=45726192&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://dramforever.github.io/easyriscv/">Easy RISC-V</a><span class="sitebit comhead"> (<a href="from?site=dramforever.github.io"><span class="sitestr">dramforever.github.io</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[The decline of deviance]]></title>
+        <id>https://www.experimental-history.com/p/the-decline-of-deviance</id>
+        <link href="https://www.experimental-history.com/p/the-decline-of-deviance"/>
+        <updated>2025-10-28T17:44:16.208Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45734620" href="vote?id=45734620&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.experimental-history.com/p/the-decline-of-deviance">The decline of deviance</a><span class="sitebit comhead"> (<a href="from?site=experimental-history.com"><span class="sitestr">experimental-history.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcon: A Reliable, Low Latency Hardware Transport]]></title>
+        <id>https://dl.acm.org/doi/10.1145/3718958.3754353</id>
+        <link href="https://dl.acm.org/doi/10.1145/3718958.3754353"/>
+        <updated>2025-10-29T05:45:41.707Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45711598" href="vote?id=45711598&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://dl.acm.org/doi/10.1145/3718958.3754353" rel="nofollow">Falcon: A Reliable, Low Latency Hardware Transport</a><span class="sitebit comhead"> (<a href="from?site=acm.org"><span class="sitestr">acm.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've been loving Claude Code on the web]]></title>
+        <id>https://ben.page/claude-code-web</id>
+        <link href="https://ben.page/claude-code-web"/>
+        <updated>2025-10-28T17:44:16.224Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45735264" href="vote?id=45735264&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://ben.page/claude-code-web">I've been loving Claude Code on the web</a><span class="sitebit comhead"> (<a href="from?site=ben.page"><span class="sitestr">ben.page</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Geomys Standard of Care]]></title>
+        <id>https://words.filippo.io/standard-of-care/</id>
+        <link href="https://words.filippo.io/standard-of-care/"/>
+        <updated>2025-10-29T05:45:41.709Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45682046" href="vote?id=45682046&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://words.filippo.io/standard-of-care/" rel="nofollow">The Geomys Standard of Care</a><span class="sitebit comhead"> (<a href="from?site=filippo.io"><span class="sitestr">filippo.io</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uBlock Origin Lite Apple App Store]]></title>
+        <id>https://apps.apple.com/in/app/ublock-origin-lite/id6745342698</id>
+        <link href="https://apps.apple.com/in/app/ublock-origin-lite/id6745342698"/>
+        <updated>2025-10-29T05:45:41.711Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45742446" href="vote?id=45742446&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://apps.apple.com/in/app/ublock-origin-lite/id6745342698">uBlock Origin Lite Apple App Store</a><span class="sitebit comhead"> (<a href="from?site=apps.apple.com"><span class="sitestr">apps.apple.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1X Neo – Home Robot - Pre Order]]></title>
+        <id>https://www.1x.tech/order</id>
+        <link href="https://www.1x.tech/order"/>
+        <updated>2025-10-29T05:45:41.712Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45736457" href="vote?id=45736457&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.1x.tech/order">1X Neo – Home Robot - Pre Order</a><span class="sitebit comhead"> (<a href="from?site=1x.tech"><span class="sitestr">1x.tech</span></a>)</span></span></td>]]></content>
     </entry>
 </feed>
