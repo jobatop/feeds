@@ -2,217 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.ycombinator.com/news</id>
     <title>Hacker News</title>
-    <updated>2025-10-30T05:44:50.925Z</updated>
+    <updated>2025-10-30T17:43:59.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.ycombinator.com/y18.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Uv is the best thing to happen to the Python ecosystem in a decade]]></title>
-        <id>https://emily.space/posts/251023-uv</id>
-        <link href="https://emily.space/posts/251023-uv"/>
-        <updated>2025-10-30T05:44:47.649Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45751400" href="vote?id=45751400&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://emily.space/posts/251023-uv">Uv is the best thing to happen to the Python ecosystem in a decade</a><span class="sitebit comhead"> (<a href="from?site=emily.space"><span class="sitestr">emily.space</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Affinity Studio now free]]></title>
+        <id>https://www.affinity.studio/get-affinity</id>
+        <link href="https://www.affinity.studio/get-affinity"/>
+        <updated>2025-10-30T17:43:55.032Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45761445" href="vote?id=45761445&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.affinity.studio/get-affinity">Affinity Studio now free</a><span class="sitebit comhead"> (<a href="from?site=affinity.studio"><span class="sitestr">affinity.studio</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ear does not do a Fourier transform]]></title>
+        <id>https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform</id>
+        <link href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45762259" href="vote?id=45762259&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform">The ear does not do a Fourier transform</a><span class="sitebit comhead"> (<a href="from?site=dissonances.blog"><span class="sitestr">dissonances.blog</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously]]></title>
+        <id>https://app.propolis.tech/#/launch</id>
+        <link href="https://app.propolis.tech/#/launch"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45762012" href="vote?id=45762012&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://app.propolis.tech/#/launch">Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously</a><span class="sitebit comhead"> (<a href="from?site=propolis.tech"><span class="sitestr">propolis.tech</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[987654321 / 123456789]]></title>
+        <id>https://www.johndcook.com/blog/2025/10/26/987654321/</id>
+        <link href="https://www.johndcook.com/blog/2025/10/26/987654321/"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45712620" href="vote?id=45712620&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.johndcook.com/blog/2025/10/26/987654321/">987654321 / 123456789</a><span class="sitebit comhead"> (<a href="from?site=johndcook.com"><span class="sitestr">johndcook.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a heatmap diff viewer for code reviews]]></title>
+        <id>https://0github.com/</id>
+        <link href="https://0github.com/"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45760321" href="vote?id=45760321&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://0github.com">Show HN: I made a heatmap diff viewer for code reviews</a><span class="sitebit comhead"> (<a href="from?site=0github.com"><span class="sitestr">0github.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOZO's Contact Solver for physics-based simulations]]></title>
+        <id>https://github.com/st-tech/ppf-contact-solver</id>
+        <link href="https://github.com/st-tech/ppf-contact-solver"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45761042" href="vote?id=45761042&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/st-tech/ppf-contact-solver">ZOZO's Contact Solver for physics-based simulations</a><span class="sitebit comhead"> (<a href="from?site=github.com/st-tech"><span class="sitestr">github.com/st-tech</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling panel prices lead to global solar boom, except for the US]]></title>
+        <id>https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/</id>
+        <link href="https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45761902" href="vote?id=45761902&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/">Falling panel prices lead to global solar boom, except for the US</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free software scares normal people]]></title>
+        <id>https://danieldelaney.net/normal/</id>
+        <link href="https://danieldelaney.net/normal/"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45760878" href="vote?id=45760878&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://danieldelaney.net/normal/">Free software scares normal people</a><span class="sitebit comhead"> (<a href="from?site=danieldelaney.net"><span class="sitestr">danieldelaney.net</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US declines to join more than 70 countries in signing UN cybercrime treaty]]></title>
+        <id>https://therecord.media/us-declines-signing-cybercrime-treaty?</id>
+        <link href="https://therecord.media/us-declines-signing-cybercrime-treaty?"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45760328" href="vote?id=45760328&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://therecord.media/us-declines-signing-cybercrime-treaty?">US declines to join more than 70 countries in signing UN cybercrime treaty</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt Creator 18 Released]]></title>
+        <id>https://www.qt.io/blog/qt-creator-18-released</id>
+        <link href="https://www.qt.io/blog/qt-creator-18-released"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45761789" href="vote?id=45761789&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.qt.io/blog/qt-creator-18-released">Qt Creator 18 Released</a><span class="sitebit comhead"> (<a href="from?site=qt.io"><span class="sitestr">qt.io</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: In a single HTML file, an app to encourage my children to invest]]></title>
+        <id>https://roberdam.com/en/dinversiones.html</id>
+        <link href="https://roberdam.com/en/dinversiones.html"/>
+        <updated>2025-10-30T17:43:55.040Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45758421" href="vote?id=45758421&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://roberdam.com/en/dinversiones.html">Show HN: In a single HTML file, an app to encourage my children to invest</a><span class="sitebit comhead"> (<a href="from?site=roberdam.com"><span class="sitestr">roberdam.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frozen DuckLakes for Multi-User, Serverless Data Access]]></title>
+        <id>https://ducklake.select/2025/10/24/frozen-ducklake/</id>
+        <link href="https://ducklake.select/2025/10/24/frozen-ducklake/"/>
+        <updated>2025-10-30T17:43:55.046Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45702831" href="vote?id=45702831&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://ducklake.select/2025/10/24/frozen-ducklake/">Frozen DuckLakes for Multi-User, Serverless Data Access</a><span class="sitebit comhead"> (<a href="from?site=ducklake.select"><span class="sitestr">ducklake.select</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing EBS and Rethinking Postgres Storage from First Principles]]></title>
+        <id>https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents</id>
+        <link href="https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"/>
+        <updated>2025-10-30T17:43:55.046Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45748484" href="vote?id=45748484&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents">Replacing EBS and Rethinking Postgres Storage from First Principles</a><span class="sitebit comhead"> (<a href="from?site=tigerdata.com"><span class="sitestr">tigerdata.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acronymy (Can we define every word as an acronym?)]]></title>
+        <id>https://acronymy.net/</id>
+        <link href="https://acronymy.net/"/>
+        <updated>2025-10-30T17:43:55.049Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45702252" href="vote?id=45702252&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://acronymy.net/">Acronymy (Can we define every word as an acronym?)</a><span class="sitebit comhead"> (<a href="from?site=acronymy.net"><span class="sitestr">acronymy.net</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files]]></title>
+        <id>https://github.com/ventoy/Ventoy</id>
+        <link href="https://github.com/ventoy/Ventoy"/>
+        <updated>2025-10-30T17:43:55.050Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45760340" href="vote?id=45760340&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/ventoy/Ventoy">Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files</a><span class="sitebit comhead"> (<a href="from?site=github.com/ventoy"><span class="sitestr">github.com/ventoy</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NaN, the not-a-number number that isn't NaN]]></title>
+        <id>https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/</id>
+        <link href="https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/"/>
+        <updated>2025-10-30T17:43:55.054Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45681156" href="vote?id=45681156&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/">NaN, the not-a-number number that isn't NaN</a><span class="sitebit comhead"> (<a href="from?site=piccalil.li"><span class="sitestr">piccalil.li</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Azure outage]]></title>
         <id>https://news.ycombinator.com/item?id=45748661</id>
         <link href="https://news.ycombinator.com/item?id=45748661"/>
         <updated>2025-10-30T05:44:47.649Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45748661" href="vote?id=45748661&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="item?id=45748661">Tell HN: Azure outage</a></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45748661" href="vote?id=45748661&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="item?id=45748661">Tell HN: Azure outage</a></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders]]></title>
+        <id>https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code</id>
+        <link href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code"/>
+        <updated>2025-10-30T17:43:55.057Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45746482" href="vote?id=45746482&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code">Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moderna, the company that helped save the world, has unraveled]]></title>
+        <id>https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/</id>
+        <link href="https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/"/>
+        <updated>2025-10-30T17:43:55.058Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45762136" href="vote?id=45762136&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/">Moderna, the company that helped save the world, has unraveled</a><span class="sitebit comhead"> (<a href="from?site=statnews.com"><span class="sitestr">statnews.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Minecraft removing obfuscation in Java Edition]]></title>
         <id>https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition</id>
         <link href="https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"/>
         <updated>2025-10-29T17:46:04.050Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45748879" href="vote?id=45748879&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition">Minecraft removing obfuscation in Java Edition</a><span class="sitebit comhead"> (<a href="from?site=minecraft.net"><span class="sitestr">minecraft.net</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45748879" href="vote?id=45748879&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition">Minecraft removing obfuscation in Java Edition</a><span class="sitebit comhead"> (<a href="from?site=minecraft.net"><span class="sitestr">minecraft.net</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IRCd service (2024)]]></title>
-        <id>https://example.fi/blog/ircd.html</id>
-        <link href="https://example.fi/blog/ircd.html"/>
-        <updated>2025-10-30T05:44:47.651Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45755788" href="vote?id=45755788&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://example.fi/blog/ircd.html">IRCd service (2024)</a><span class="sitebit comhead"> (<a href="from?site=example.fi"><span class="sitestr">example.fi</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Spinning Up an Onion Mirror Is Stupid Easy]]></title>
+        <id>https://flower.codes/2025/10/23/onion-mirror.html</id>
+        <link href="https://flower.codes/2025/10/23/onion-mirror.html"/>
+        <updated>2025-10-30T17:43:55.062Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45683380" href="vote?id=45683380&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://flower.codes/2025/10/23/onion-mirror.html">Spinning Up an Onion Mirror Is Stupid Easy</a><span class="sitebit comhead"> (<a href="from?site=flower.codes"><span class="sitestr">flower.codes</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typst's Math Mode Problem]]></title>
+        <id>https://laurmaedje.github.io/posts/math-mode-problem/</id>
+        <link href="https://laurmaedje.github.io/posts/math-mode-problem/"/>
+        <updated>2025-10-30T17:43:55.064Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45697450" href="vote?id=45697450&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://laurmaedje.github.io/posts/math-mode-problem/">Typst's Math Mode Problem</a><span class="sitebit comhead"> (<a href="from?site=laurmaedje.github.io"><span class="sitestr">laurmaedje.github.io</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Language models are injective and hence invertible]]></title>
+        <id>https://arxiv.org/abs/2510.15511</id>
+        <link href="https://arxiv.org/abs/2510.15511"/>
+        <updated>2025-10-30T17:43:55.066Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45758093" href="vote?id=45758093&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arxiv.org/abs/2510.15511">Language models are injective and hence invertible</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Aesthete's Progress]]></title>
+        <id>https://sydneyreviewofbooks.com/essays/the-aesthetes-progress</id>
+        <link href="https://sydneyreviewofbooks.com/essays/the-aesthetes-progress"/>
+        <updated>2025-10-30T17:43:55.068Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45691218" href="vote?id=45691218&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://sydneyreviewofbooks.com/essays/the-aesthetes-progress">The Aesthete's Progress</a><span class="sitebit comhead"> (<a href="from?site=sydneyreviewofbooks.com"><span class="sitestr">sydneyreviewofbooks.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How ancient people saw themselves]]></title>
         <id>https://worldhistory.substack.com/p/how-ancient-people-saw-themselves</id>
         <link href="https://worldhistory.substack.com/p/how-ancient-people-saw-themselves"/>
         <updated>2025-10-30T05:44:47.651Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45711577" href="vote?id=45711577&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://worldhistory.substack.com/p/how-ancient-people-saw-themselves">How ancient people saw themselves</a><span class="sitebit comhead"> (<a href="from?site=worldhistory.substack.com"><span class="sitestr">worldhistory.substack.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45711577" href="vote?id=45711577&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://worldhistory.substack.com/p/how-ancient-people-saw-themselves">How ancient people saw themselves</a><span class="sitebit comhead"> (<a href="from?site=worldhistory.substack.com"><span class="sitestr">worldhistory.substack.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China has added forest the size of Texas since 1990]]></title>
-        <id>https://e360.yale.edu/digest/china-new-forest-report</id>
-        <link href="https://e360.yale.edu/digest/china-new-forest-report"/>
-        <updated>2025-10-30T05:44:47.651Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45732800" href="vote?id=45732800&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://e360.yale.edu/digest/china-new-forest-report">China has added forest the size of Texas since 1990</a><span class="sitebit comhead"> (<a href="from?site=yale.edu"><span class="sitestr">yale.edu</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Some Smalltalk about Ruby Loops]]></title>
+        <id>https://tech.stonecharioteer.com/posts/2025/ruby-loops/</id>
+        <link href="https://tech.stonecharioteer.com/posts/2025/ruby-loops/"/>
+        <updated>2025-10-30T17:43:55.071Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45681023" href="vote?id=45681023&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://tech.stonecharioteer.com/posts/2025/ruby-loops/">Some Smalltalk about Ruby Loops</a><span class="sitebit comhead"> (<a href="from?site=stonecharioteer.com"><span class="sitestr">stonecharioteer.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet]]></title>
         <id>https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet</id>
         <link href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"/>
         <updated>2025-10-30T05:44:47.652Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45754439" href="vote?id=45754439&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet">Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet</a><span class="sitebit comhead"> (<a href="from?site=elektormagazine.com"><span class="sitestr">elektormagazine.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45754439" href="vote?id=45754439&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet">Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet</a><span class="sitebit comhead"> (<a href="from?site=elektormagazine.com"><span class="sitestr">elektormagazine.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello-World iOS App in Assembly]]></title>
         <id>https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31</id>
         <link href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31"/>
         <updated>2025-10-30T05:44:47.654Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45755821" href="vote?id=45755821&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31">Hello-World iOS App in Assembly</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OS/2 Warp, PowerPC Edition (2011)]]></title>
-        <id>https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/</id>
-        <link href="https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/"/>
-        <updated>2025-10-30T05:44:47.656Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45754660" href="vote?id=45754660&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/">OS/2 Warp, PowerPC Edition (2011)</a><span class="sitebit comhead"> (<a href="from?site=os2museum.com"><span class="sitestr">os2museum.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dithering – Part 1]]></title>
-        <id>https://visualrambling.space/dithering-part-1/</id>
-        <link href="https://visualrambling.space/dithering-part-1/"/>
-        <updated>2025-10-30T05:44:47.658Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45750954" href="vote?id=45750954&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://visualrambling.space/dithering-part-1/">Dithering – Part 1</a><span class="sitebit comhead"> (<a href="from?site=visualrambling.space"><span class="sitestr">visualrambling.space</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carlo Rovelli’s radical perspective on reality]]></title>
-        <id>https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/</id>
-        <link href="https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/"/>
-        <updated>2025-10-30T05:44:47.661Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45756445" href="vote?id=45756445&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/" rel="nofollow">Carlo Rovelli’s radical perspective on reality</a><span class="sitebit comhead"> (<a href="from?site=quantamagazine.org"><span class="sitestr">quantamagazine.org</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45755821" href="vote?id=45755821&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31">Hello-World iOS App in Assembly</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kafka is Fast – I'll use Postgres]]></title>
         <id>https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks</id>
         <link href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"/>
         <updated>2025-10-29T17:46:04.076Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45747018" href="vote?id=45747018&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks">Kafka is Fast – I'll use Postgres</a><span class="sitebit comhead"> (<a href="from?site=topicpartition.io"><span class="sitestr">topicpartition.io</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45747018" href="vote?id=45747018&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks">Kafka is Fast – I'll use Postgres</a><span class="sitebit comhead"> (<a href="from?site=topicpartition.io"><span class="sitestr">topicpartition.io</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AOL to be sold to Bending Spoons for $1.5B]]></title>
-        <id>https://www.axios.com/2025/10/29/aol-bending-spoons-deal</id>
-        <link href="https://www.axios.com/2025/10/29/aol-bending-spoons-deal"/>
-        <updated>2025-10-29T17:46:04.080Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45749161" href="vote?id=45749161&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.axios.com/2025/10/29/aol-bending-spoons-deal">AOL to be sold to Bending Spoons for $1.5B</a><span class="sitebit comhead"> (<a href="from?site=axios.com"><span class="sitestr">axios.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale Peer Relays]]></title>
-        <id>https://tailscale.com/blog/peer-relays-beta</id>
-        <link href="https://tailscale.com/blog/peer-relays-beta"/>
-        <updated>2025-10-29T17:46:04.041Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45749017" href="vote?id=45749017&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://tailscale.com/blog/peer-relays-beta">Tailscale Peer Relays</a><span class="sitebit comhead"> (<a href="from?site=tailscale.com"><span class="sitestr">tailscale.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One year with Next.js App Router and why we're moving on]]></title>
-        <id>https://paperclover.net/blog/webdev/one-year-next-app-router</id>
-        <link href="https://paperclover.net/blog/webdev/one-year-next-app-router"/>
-        <updated>2025-10-30T05:44:47.666Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45755911" href="vote?id=45755911&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://paperclover.net/blog/webdev/one-year-next-app-router">One year with Next.js App Router and why we're moving on</a><span class="sitebit comhead"> (<a href="from?site=paperclover.net"><span class="sitestr">paperclover.net</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Board: New game console recognizes physical pieces, with an open SDK]]></title>
-        <id>https://board.fun/</id>
-        <link href="https://board.fun/"/>
-        <updated>2025-10-30T05:44:47.668Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45742456" href="vote?id=45742456&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://board.fun/">Board: New game console recognizes physical pieces, with an open SDK</a><span class="sitebit comhead"> (<a href="from?site=board.fun"><span class="sitestr">board.fun</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the U.S. National Science Foundation enabled Software-Defined Networking]]></title>
-        <id>https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/</id>
-        <link href="https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/"/>
-        <updated>2025-10-30T05:44:47.670Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45753222" href="vote?id=45753222&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/">How the U.S. National Science Foundation enabled Software-Defined Networking</a><span class="sitebit comhead"> (<a href="from?site=acm.org"><span class="sitestr">acm.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baker – language-agnostic project scaffolder with hooks (Rust)]]></title>
-        <id>https://github.com/aliev/baker</id>
-        <link href="https://github.com/aliev/baker"/>
-        <updated>2025-10-30T05:44:47.671Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45707591" href="vote?id=45707591&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/aliev/baker" rel="nofollow">Baker – language-agnostic project scaffolder with hooks (Rust)</a><span class="sitebit comhead"> (<a href="from?site=github.com/aliev"><span class="sitestr">github.com/aliev</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s promise to stay in California helped clear the path for its IPO]]></title>
-        <id>https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c</id>
-        <link href="https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c"/>
-        <updated>2025-10-30T05:44:47.672Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45750425" href="vote?id=45750425&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c">OpenAI’s promise to stay in California helped clear the path for its IPO</a><span class="sitebit comhead"> (<a href="from?site=wsj.com"><span class="sitestr">wsj.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet runs on free and open source software and so does the DNS]]></title>
-        <id>https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en</id>
-        <link href="https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en"/>
-        <updated>2025-10-30T05:44:47.674Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45750875" href="vote?id=45750875&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en">The Internet runs on free and open source software and so does the DNS</a><span class="sitebit comhead"> (<a href="from?site=icann.org"><span class="sitestr">icann.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders]]></title>
-        <id>https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false</id>
-        <link href="https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false"/>
-        <updated>2025-10-30T05:44:47.675Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45728525" href="vote?id=45728525&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false">GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders</a><span class="sitebit comhead"> (<a href="from?site=oup.com"><span class="sitestr">oup.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Android Open]]></title>
-        <id>http://keepandroidopen.org/</id>
-        <link href="http://keepandroidopen.org/"/>
-        <updated>2025-10-29T05:45:41.667Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45742488" href="vote?id=45742488&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="http://keepandroidopen.org/">Keep Android Open</a><span class="sitebit comhead"> (<a href="from?site=keepandroidopen.org"><span class="sitestr">keepandroidopen.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A century of reforestation helped keep the eastern US cool (2024)]]></title>
-        <id>https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/</id>
-        <link href="https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/"/>
-        <updated>2025-10-30T05:44:47.679Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45754390" href="vote?id=45754390&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/">A century of reforestation helped keep the eastern US cool (2024)</a><span class="sitebit comhead"> (<a href="from?site=agu.org"><span class="sitestr">agu.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why imperfection could be key to Turing patterns in nature]]></title>
-        <id>https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/</id>
-        <link href="https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/"/>
-        <updated>2025-10-30T05:44:47.680Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45723737" href="vote?id=45723737&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/" rel="nofollow">Why imperfection could be key to Turing patterns in nature</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More than DNS: Learnings from the 14 hour AWS outage]]></title>
-        <id>https://thundergolfer.com/blog/aws-us-east-1-outage-oct20</id>
-        <link href="https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"/>
-        <updated>2025-10-30T05:44:47.682Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45722471" href="vote?id=45722471&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://thundergolfer.com/blog/aws-us-east-1-outage-oct20">More than DNS: Learnings from the 14 hour AWS outage</a><span class="sitebit comhead"> (<a href="from?site=thundergolfer.com"><span class="sitestr">thundergolfer.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crunchyroll is destroying its subtitles]]></title>
-        <id>https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/</id>
-        <link href="https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/"/>
-        <updated>2025-10-30T05:44:47.683Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45754509" href="vote?id=45754509&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/">Crunchyroll is destroying its subtitles</a><span class="sitebit comhead"> (<a href="from?site=daiz.moe"><span class="sitestr">daiz.moe</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Obsessively Tune WezTerm]]></title>
-        <id>https://rashil2000.me/blogs/tune-wezterm</id>
-        <link href="https://rashil2000.me/blogs/tune-wezterm"/>
-        <updated>2025-10-30T05:44:47.684Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45751995" href="vote?id=45751995&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://rashil2000.me/blogs/tune-wezterm">How to Obsessively Tune WezTerm</a><span class="sitebit comhead"> (<a href="from?site=rashil2000.me"><span class="sitestr">rashil2000.me</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composer: Building a fast frontier model with RL]]></title>
-        <id>https://cursor.com/blog/composer</id>
-        <link href="https://cursor.com/blog/composer"/>
-        <updated>2025-10-29T17:46:04.050Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45748725" href="vote?id=45748725&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://cursor.com/blog/composer">Composer: Building a fast frontier model with RL</a><span class="sitebit comhead"> (<a href="from?site=cursor.com"><span class="sitestr">cursor.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eye prosthesis is the first to restore sight lost to macular degeneration]]></title>
-        <id>https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html</id>
-        <link href="https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html"/>
-        <updated>2025-10-29T17:46:04.059Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45671677" href="vote?id=45671677&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html">Eye prosthesis is the first to restore sight lost to macular degeneration</a><span class="sitebit comhead"> (<a href="from?site=stanford.edu"><span class="sitestr">stanford.edu</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upwave (YC S12) is hiring software engineers]]></title>
-        <id>https://www.upwave.com/job/8228849002/</id>
-        <link href="https://www.upwave.com/job/8228849002/"/>
-        <updated>2025-10-29T17:46:04.051Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://www.upwave.com/job/8228849002/" rel="nofollow">Upwave (YC S12) is hiring software engineers</a><span class="sitebit comhead"> (<a href="from?site=upwave.com"><span class="sitestr">upwave.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Dithering – Part 1]]></title>
+        <id>https://visualrambling.space/dithering-part-1/</id>
+        <link href="https://visualrambling.space/dithering-part-1/"/>
+        <updated>2025-10-30T05:44:47.658Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45750954" href="vote?id=45750954&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://visualrambling.space/dithering-part-1/">Dithering – Part 1</a><span class="sitebit comhead"> (<a href="from?site=visualrambling.space"><span class="sitestr">visualrambling.space</span></a>)</span></span></td>]]></content>
     </entry>
 </feed>
