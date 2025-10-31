@@ -2,217 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jobatop.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-30T17:43:59.530Z</updated>
+    <updated>2025-10-31T05:45:36.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[A Look at Antml: The Anthropic Markup Language (Hacker News)]]></title>
+        <id>https://karashiiro.leaflet.pub/3m4gf7geefs2l</id>
+        <link href="https://karashiiro.leaflet.pub/3m4gf7geefs2l"/>
+        <updated>2025-10-31T05:45:32.195Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45768482" href="vote?id=45768482&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://karashiiro.leaflet.pub/3m4gf7geefs2l">A Look at Antml: The Anthropic Markup Language</a><span class="sitebit comhead"> (<a href="from?site=leaflet.pub"><span class="sitestr">leaflet.pub</span></a>)</span></span></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affinity Studio now free (Hacker News)]]></title>
         <id>https://www.affinity.studio/get-affinity</id>
         <link href="https://www.affinity.studio/get-affinity"/>
         <updated>2025-10-30T17:43:55.032Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45761445" href="vote?id=45761445&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.affinity.studio/get-affinity">Affinity Studio now free</a><span class="sitebit comhead"> (<a href="from?site=affinity.studio"><span class="sitestr">affinity.studio</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45761445" href="vote?id=45761445&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.affinity.studio/get-affinity">Affinity Studio now free</a><span class="sitebit comhead"> (<a href="from?site=affinity.studio"><span class="sitestr">affinity.studio</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ear does not do a Fourier transform (Hacker News)]]></title>
+        <title type="html"><![CDATA[AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process (Hacker News)]]></title>
+        <id>https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/</id>
+        <link href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/"/>
+        <updated>2025-10-31T05:45:32.198Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45767916" href="vote?id=45767916&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/">AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process</a><span class="sitebit comhead"> (<a href="from?site=guru3d.com"><span class="sitestr">guru3d.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi Linear: An Expressive, Efficient Attention Architecture (Hacker News)]]></title>
+        <id>https://github.com/MoonshotAI/Kimi-Linear</id>
+        <link href="https://github.com/MoonshotAI/Kimi-Linear"/>
+        <updated>2025-10-31T05:45:32.198Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45766937" href="vote?id=45766937&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/MoonshotAI/Kimi-Linear">Kimi Linear: An Expressive, Efficient Attention Architecture</a><span class="sitebit comhead"> (<a href="from?site=github.com/moonshotai"><span class="sitestr">github.com/moonshotai</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phone numbers for use in TV shows, films and creative works (Hacker News)]]></title>
+        <id>https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works</id>
+        <link href="https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works"/>
+        <updated>2025-10-31T05:45:32.198Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45765787" href="vote?id=45765787&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works">Phone numbers for use in TV shows, films and creative works</a><span class="sitebit comhead"> (<a href="from?site=acma.gov.au"><span class="sitestr">acma.gov.au</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ear does not do a Fourier transform (2024) (Hacker News)]]></title>
         <id>https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform</id>
         <link href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"/>
         <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45762259" href="vote?id=45762259&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform">The ear does not do a Fourier transform</a><span class="sitebit comhead"> (<a href="from?site=dissonances.blog"><span class="sitestr">dissonances.blog</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45762259" href="vote?id=45762259&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform">The ear does not do a Fourier transform (2024)</a><span class="sitebit comhead"> (<a href="from?site=dissonances.blog"><span class="sitestr">dissonances.blog</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously (Hacker News)]]></title>
-        <id>https://app.propolis.tech/#/launch</id>
-        <link href="https://app.propolis.tech/#/launch"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45762012" href="vote?id=45762012&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://app.propolis.tech/#/launch">Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously</a><span class="sitebit comhead"> (<a href="from?site=propolis.tech"><span class="sitestr">propolis.tech</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Rouille – Rust Programming, in French (Hacker News)]]></title>
+        <id>https://github.com/bnjbvr/rouille</id>
+        <link href="https://github.com/bnjbvr/rouille"/>
+        <updated>2025-10-31T05:45:32.202Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45680023" href="vote?id=45680023&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/bnjbvr/rouille">Rouille – Rust Programming, in French</a><span class="sitebit comhead"> (<a href="from?site=github.com/bnjbvr"><span class="sitestr">github.com/bnjbvr</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[987654321 / 123456789 (Hacker News)]]></title>
-        <id>https://www.johndcook.com/blog/2025/10/26/987654321/</id>
-        <link href="https://www.johndcook.com/blog/2025/10/26/987654321/"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45712620" href="vote?id=45712620&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.johndcook.com/blog/2025/10/26/987654321/">987654321 / 123456789</a><span class="sitebit comhead"> (<a href="from?site=johndcook.com"><span class="sitestr">johndcook.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Modifying a radiation meter for (radioactive) rock collecting (Hacker News)]]></title>
+        <id>https://maurycyz.com/projects/ludlum3/</id>
+        <link href="https://maurycyz.com/projects/ludlum3/"/>
+        <updated>2025-10-31T05:45:32.206Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45700672" href="vote?id=45700672&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://maurycyz.com/projects/ludlum3/">Modifying a radiation meter for (radioactive) rock collecting</a><span class="sitebit comhead"> (<a href="from?site=maurycyz.com"><span class="sitestr">maurycyz.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I made a heatmap diff viewer for code reviews (Hacker News)]]></title>
-        <id>https://0github.com/</id>
-        <link href="https://0github.com/"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45760321" href="vote?id=45760321&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://0github.com">Show HN: I made a heatmap diff viewer for code reviews</a><span class="sitebit comhead"> (<a href="from?site=0github.com"><span class="sitestr">0github.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[NPM flooded with malicious packages downloaded more than 86k times (Hacker News)]]></title>
+        <id>https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/</id>
+        <link href="https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"/>
+        <updated>2025-10-31T05:45:32.206Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45755027" href="vote?id=45755027&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/">NPM flooded with malicious packages downloaded more than 86k times</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZOZO's Contact Solver for physics-based simulations (Hacker News)]]></title>
-        <id>https://github.com/st-tech/ppf-contact-solver</id>
-        <link href="https://github.com/st-tech/ppf-contact-solver"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45761042" href="vote?id=45761042&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/st-tech/ppf-contact-solver">ZOZO's Contact Solver for physics-based simulations</a><span class="sitebit comhead"> (<a href="from?site=github.com/st-tech"><span class="sitestr">github.com/st-tech</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling panel prices lead to global solar boom, except for the US (Hacker News)]]></title>
-        <id>https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/</id>
-        <link href="https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45761902" href="vote?id=45761902&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/">Falling panel prices lead to global solar boom, except for the US</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Quibbler – A critic for your coding agent that learns what you want (Hacker News)]]></title>
+        <id>https://github.com/fulcrumresearch/quibbler</id>
+        <link href="https://github.com/fulcrumresearch/quibbler"/>
+        <updated>2025-10-31T05:45:32.210Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45767162" href="vote?id=45767162&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/fulcrumresearch/quibbler">Show HN: Quibbler – A critic for your coding agent that learns what you want</a><span class="sitebit comhead"> (<a href="from?site=github.com/fulcrumresearch"><span class="sitestr">github.com/fulcrumresearch</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Free software scares normal people (Hacker News)]]></title>
         <id>https://danieldelaney.net/normal/</id>
         <link href="https://danieldelaney.net/normal/"/>
         <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45760878" href="vote?id=45760878&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://danieldelaney.net/normal/">Free software scares normal people</a><span class="sitebit comhead"> (<a href="from?site=danieldelaney.net"><span class="sitestr">danieldelaney.net</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45760878" href="vote?id=45760878&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://danieldelaney.net/normal/">Free software scares normal people</a><span class="sitebit comhead"> (<a href="from?site=danieldelaney.net"><span class="sitestr">danieldelaney.net</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US declines to join more than 70 countries in signing UN cybercrime treaty (Hacker News)]]></title>
-        <id>https://therecord.media/us-declines-signing-cybercrime-treaty?</id>
-        <link href="https://therecord.media/us-declines-signing-cybercrime-treaty?"/>
+        <title type="html"><![CDATA[Springs and bounces in native CSS (Hacker News)]]></title>
+        <id>https://www.joshwcomeau.com/animation/linear-timing-function/</id>
+        <link href="https://www.joshwcomeau.com/animation/linear-timing-function/"/>
+        <updated>2025-10-31T05:45:32.214Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45736461" href="vote?id=45736461&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.joshwcomeau.com/animation/linear-timing-function/">Springs and bounces in native CSS</a><span class="sitebit comhead"> (<a href="from?site=joshwcomeau.com"><span class="sitestr">joshwcomeau.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[987654321 / 123456789 (Hacker News)]]></title>
+        <id>https://www.johndcook.com/blog/2025/10/26/987654321/</id>
+        <link href="https://www.johndcook.com/blog/2025/10/26/987654321/"/>
         <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45760328" href="vote?id=45760328&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://therecord.media/us-declines-signing-cybercrime-treaty?">US declines to join more than 70 countries in signing UN cybercrime treaty</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45712620" href="vote?id=45712620&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.johndcook.com/blog/2025/10/26/987654321/">987654321 / 123456789</a><span class="sitebit comhead"> (<a href="from?site=johndcook.com"><span class="sitestr">johndcook.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qt Creator 18 Released (Hacker News)]]></title>
-        <id>https://www.qt.io/blog/qt-creator-18-released</id>
-        <link href="https://www.qt.io/blog/qt-creator-18-released"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45761789" href="vote?id=45761789&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.qt.io/blog/qt-creator-18-released">Qt Creator 18 Released</a><span class="sitebit comhead"> (<a href="from?site=qt.io"><span class="sitestr">qt.io</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road (Hacker News)]]></title>
+        <id>https://theamericanscholar.org/scrolling-through/</id>
+        <link href="https://theamericanscholar.org/scrolling-through/"/>
+        <updated>2025-10-31T05:45:32.217Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45742957" href="vote?id=45742957&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://theamericanscholar.org/scrolling-through/">Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road</a><span class="sitebit comhead"> (<a href="from?site=theamericanscholar.org"><span class="sitestr">theamericanscholar.org</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: In a single HTML file, an app to encourage my children to invest (Hacker News)]]></title>
-        <id>https://roberdam.com/en/dinversiones.html</id>
-        <link href="https://roberdam.com/en/dinversiones.html"/>
-        <updated>2025-10-30T17:43:55.040Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45758421" href="vote?id=45758421&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://roberdam.com/en/dinversiones.html">Show HN: In a single HTML file, an app to encourage my children to invest</a><span class="sitebit comhead"> (<a href="from?site=roberdam.com"><span class="sitestr">roberdam.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frozen DuckLakes for Multi-User, Serverless Data Access (Hacker News)]]></title>
-        <id>https://ducklake.select/2025/10/24/frozen-ducklake/</id>
-        <link href="https://ducklake.select/2025/10/24/frozen-ducklake/"/>
-        <updated>2025-10-30T17:43:55.046Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45702831" href="vote?id=45702831&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://ducklake.select/2025/10/24/frozen-ducklake/">Frozen DuckLakes for Multi-User, Serverless Data Access</a><span class="sitebit comhead"> (<a href="from?site=ducklake.select"><span class="sitestr">ducklake.select</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replacing EBS and Rethinking Postgres Storage from First Principles (Hacker News)]]></title>
-        <id>https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents</id>
-        <link href="https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"/>
-        <updated>2025-10-30T17:43:55.046Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45748484" href="vote?id=45748484&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents">Replacing EBS and Rethinking Postgres Storage from First Principles</a><span class="sitebit comhead"> (<a href="from?site=tigerdata.com"><span class="sitestr">tigerdata.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acronymy (Can we define every word as an acronym?) (Hacker News)]]></title>
-        <id>https://acronymy.net/</id>
-        <link href="https://acronymy.net/"/>
-        <updated>2025-10-30T17:43:55.049Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45702252" href="vote?id=45702252&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://acronymy.net/">Acronymy (Can we define every word as an acronym?)</a><span class="sitebit comhead"> (<a href="from?site=acronymy.net"><span class="sitestr">acronymy.net</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files (Hacker News)]]></title>
-        <id>https://github.com/ventoy/Ventoy</id>
-        <link href="https://github.com/ventoy/Ventoy"/>
-        <updated>2025-10-30T17:43:55.050Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45760340" href="vote?id=45760340&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/ventoy/Ventoy">Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files</a><span class="sitebit comhead"> (<a href="from?site=github.com/ventoy"><span class="sitestr">github.com/ventoy</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NaN, the not-a-number number that isn't NaN (Hacker News)]]></title>
-        <id>https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/</id>
-        <link href="https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/"/>
-        <updated>2025-10-30T17:43:55.054Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45681156" href="vote?id=45681156&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/">NaN, the not-a-number number that isn't NaN</a><span class="sitebit comhead"> (<a href="from?site=piccalil.li"><span class="sitestr">piccalil.li</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Azure outage (Hacker News)]]></title>
-        <id>https://news.ycombinator.com/item?id=45748661</id>
-        <link href="https://news.ycombinator.com/item?id=45748661"/>
-        <updated>2025-10-30T05:44:47.649Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45748661" href="vote?id=45748661&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="item?id=45748661">Tell HN: Azure outage</a></span></td>]]></content>
+        <title type="html"><![CDATA[Florian Schneider Collection: Instruments and Equipment Up for Auction (Hacker News)]]></title>
+        <id>https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk</id>
+        <link href="https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk"/>
+        <updated>2025-10-31T05:45:32.219Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45720616" href="vote?id=45720616&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk" rel="nofollow">Florian Schneider Collection: Instruments and Equipment Up for Auction</a><span class="sitebit comhead"> (<a href="from?site=juliensauctions.com"><span class="sitestr">juliensauctions.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders (Hacker News)]]></title>
         <id>https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code</id>
         <link href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code"/>
         <updated>2025-10-30T17:43:55.057Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45746482" href="vote?id=45746482&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code">Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45746482" href="vote?id=45746482&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code">Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moderna, the company that helped save the world, has unraveled (Hacker News)]]></title>
-        <id>https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/</id>
-        <link href="https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/"/>
-        <updated>2025-10-30T17:43:55.058Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45762136" href="vote?id=45762136&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/">Moderna, the company that helped save the world, has unraveled</a><span class="sitebit comhead"> (<a href="from?site=statnews.com"><span class="sitestr">statnews.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[ICE and the Smartphone Panopticon (Hacker News)]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon"/>
+        <updated>2025-10-31T05:45:32.224Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45767325" href="vote?id=45767325&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon">ICE and the Smartphone Panopticon</a><span class="sitebit comhead"> (<a href="from?site=newyorker.com"><span class="sitestr">newyorker.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minecraft removing obfuscation in Java Edition (Hacker News)]]></title>
-        <id>https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition</id>
-        <link href="https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"/>
-        <updated>2025-10-29T17:46:04.050Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45748879" href="vote?id=45748879&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition">Minecraft removing obfuscation in Java Edition</a><span class="sitebit comhead"> (<a href="from?site=minecraft.net"><span class="sitestr">minecraft.net</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Lenses in Julia (Hacker News)]]></title>
+        <id>https://juliaobjects.github.io/Accessors.jl/stable/lenses/</id>
+        <link href="https://juliaobjects.github.io/Accessors.jl/stable/lenses/"/>
+        <updated>2025-10-31T05:45:32.226Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45711003" href="vote?id=45711003&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://juliaobjects.github.io/Accessors.jl/stable/lenses/">Lenses in Julia</a><span class="sitebit comhead"> (<a href="from?site=juliaobjects.github.io"><span class="sitestr">juliaobjects.github.io</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spinning Up an Onion Mirror Is Stupid Easy (Hacker News)]]></title>
-        <id>https://flower.codes/2025/10/23/onion-mirror.html</id>
-        <link href="https://flower.codes/2025/10/23/onion-mirror.html"/>
-        <updated>2025-10-30T17:43:55.062Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45683380" href="vote?id=45683380&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://flower.codes/2025/10/23/onion-mirror.html">Spinning Up an Onion Mirror Is Stupid Easy</a><span class="sitebit comhead"> (<a href="from?site=flower.codes"><span class="sitestr">flower.codes</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: I made a heatmap diff viewer for code reviews (Hacker News)]]></title>
+        <id>https://0github.com/</id>
+        <link href="https://0github.com/"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45760321" href="vote?id=45760321&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://0github.com">Show HN: I made a heatmap diff viewer for code reviews</a><span class="sitebit comhead"> (<a href="from?site=0github.com"><span class="sitestr">0github.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Typst's Math Mode Problem (Hacker News)]]></title>
-        <id>https://laurmaedje.github.io/posts/math-mode-problem/</id>
-        <link href="https://laurmaedje.github.io/posts/math-mode-problem/"/>
-        <updated>2025-10-30T17:43:55.064Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45697450" href="vote?id=45697450&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://laurmaedje.github.io/posts/math-mode-problem/">Typst's Math Mode Problem</a><span class="sitebit comhead"> (<a href="from?site=laurmaedje.github.io"><span class="sitestr">laurmaedje.github.io</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Front End Fuzzy and Substring and Prefix Search (Hacker News)]]></title>
+        <id>https://github.com/m31coding/fuzzy-search</id>
+        <link href="https://github.com/m31coding/fuzzy-search"/>
+        <updated>2025-10-31T05:45:32.230Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45743232" href="vote?id=45743232&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/m31coding/fuzzy-search">Show HN: Front End Fuzzy and Substring and Prefix Search</a><span class="sitebit comhead"> (<a href="from?site=github.com/m31coding"><span class="sitestr">github.com/m31coding</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Language models are injective and hence invertible (Hacker News)]]></title>
-        <id>https://arxiv.org/abs/2510.15511</id>
-        <link href="https://arxiv.org/abs/2510.15511"/>
-        <updated>2025-10-30T17:43:55.066Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45758093" href="vote?id=45758093&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arxiv.org/abs/2510.15511">Language models are injective and hence invertible</a><span class="sitebit comhead"> (<a href="from?site=arxiv.org"><span class="sitestr">arxiv.org</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Zig's New Async I/O (Hacker News)]]></title>
+        <id>https://andrewkelley.me/post/zig-new-async-io-text-version.html</id>
+        <link href="https://andrewkelley.me/post/zig-new-async-io-text-version.html"/>
+        <updated>2025-10-31T05:45:32.231Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45746020" href="vote?id=45746020&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://andrewkelley.me/post/zig-new-async-io-text-version.html">Zig's New Async I/O</a><span class="sitebit comhead"> (<a href="from?site=andrewkelley.me"><span class="sitestr">andrewkelley.me</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Aesthete's Progress (Hacker News)]]></title>
-        <id>https://sydneyreviewofbooks.com/essays/the-aesthetes-progress</id>
-        <link href="https://sydneyreviewofbooks.com/essays/the-aesthetes-progress"/>
-        <updated>2025-10-30T17:43:55.068Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45691218" href="vote?id=45691218&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://sydneyreviewofbooks.com/essays/the-aesthetes-progress">The Aesthete's Progress</a><span class="sitebit comhead"> (<a href="from?site=sydneyreviewofbooks.com"><span class="sitestr">sydneyreviewofbooks.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Minecraft HDL, an HDL for Redstone (Hacker News)]]></title>
+        <id>https://github.com/itsfrank/MinecraftHDL</id>
+        <link href="https://github.com/itsfrank/MinecraftHDL"/>
+        <updated>2025-10-31T05:45:32.233Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45763877" href="vote?id=45763877&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/itsfrank/MinecraftHDL">Minecraft HDL, an HDL for Redstone</a><span class="sitebit comhead"> (<a href="from?site=github.com/itsfrank"><span class="sitestr">github.com/itsfrank</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How ancient people saw themselves (Hacker News)]]></title>
-        <id>https://worldhistory.substack.com/p/how-ancient-people-saw-themselves</id>
-        <link href="https://worldhistory.substack.com/p/how-ancient-people-saw-themselves"/>
-        <updated>2025-10-30T05:44:47.651Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45711577" href="vote?id=45711577&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://worldhistory.substack.com/p/how-ancient-people-saw-themselves">How ancient people saw themselves</a><span class="sitebit comhead"> (<a href="from?site=worldhistory.substack.com"><span class="sitestr">worldhistory.substack.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Denmark reportedly withdraws Chat Control proposal following controversy (Hacker News)]]></title>
+        <id>https://therecord.media/demark-reportedly-withdraws-chat-control-proposal</id>
+        <link href="https://therecord.media/demark-reportedly-withdraws-chat-control-proposal"/>
+        <updated>2025-10-31T05:45:32.234Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45765664" href="vote?id=45765664&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://therecord.media/demark-reportedly-withdraws-chat-control-proposal">Denmark reportedly withdraws Chat Control proposal following controversy</a><span class="sitebit comhead"> (<a href="from?site=therecord.media"><span class="sitestr">therecord.media</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Smalltalk about Ruby Loops (Hacker News)]]></title>
-        <id>https://tech.stonecharioteer.com/posts/2025/ruby-loops/</id>
-        <link href="https://tech.stonecharioteer.com/posts/2025/ruby-loops/"/>
-        <updated>2025-10-30T17:43:55.071Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45681023" href="vote?id=45681023&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://tech.stonecharioteer.com/posts/2025/ruby-loops/">Some Smalltalk about Ruby Loops</a><span class="sitebit comhead"> (<a href="from?site=stonecharioteer.com"><span class="sitestr">stonecharioteer.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously (Hacker News)]]></title>
+        <id>https://app.propolis.tech/#/launch</id>
+        <link href="https://app.propolis.tech/#/launch"/>
+        <updated>2025-10-30T17:43:55.039Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45762012" href="vote?id=45762012&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://app.propolis.tech/#/launch">Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously</a><span class="sitebit comhead"> (<a href="from?site=propolis.tech"><span class="sitestr">propolis.tech</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet (Hacker News)]]></title>
-        <id>https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet</id>
-        <link href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"/>
-        <updated>2025-10-30T05:44:47.652Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45754439" href="vote?id=45754439&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet">Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet</a><span class="sitebit comhead"> (<a href="from?site=elektormagazine.com"><span class="sitestr">elektormagazine.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Roadmap for Improving the Type Checker (Hacker News)]]></title>
+        <id>https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952</id>
+        <link href="https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"/>
+        <updated>2025-10-31T05:45:32.240Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45767257" href="vote?id=45767257&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952">Roadmap for Improving the Type Checker</a><span class="sitebit comhead"> (<a href="from?site=swift.org"><span class="sitestr">swift.org</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello-World iOS App in Assembly (Hacker News)]]></title>
-        <id>https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31</id>
-        <link href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31"/>
-        <updated>2025-10-30T05:44:47.654Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45755821" href="vote?id=45755821&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31">Hello-World iOS App in Assembly</a><span class="sitebit comhead"> (<a href="from?site=gist.github.com"><span class="sitestr">gist.github.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel (Hacker News)]]></title>
+        <id>https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/</id>
+        <link href="https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/"/>
+        <updated>2025-10-31T05:45:32.241Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45679046" href="vote?id=45679046&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/">The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel</a><span class="sitebit comhead"> (<a href="from?site=lithub.com"><span class="sitestr">lithub.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kafka is Fast – I'll use Postgres (Hacker News)]]></title>
-        <id>https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks</id>
-        <link href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"/>
-        <updated>2025-10-29T17:46:04.076Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45747018" href="vote?id=45747018&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks">Kafka is Fast – I'll use Postgres</a><span class="sitebit comhead"> (<a href="from?site=topicpartition.io"><span class="sitestr">topicpartition.io</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Learn Multiplatform Z80 Assembly Programming with Vampires (Hacker News)]]></title>
+        <id>https://www.chibiakumas.com/z80/</id>
+        <link href="https://www.chibiakumas.com/z80/"/>
+        <updated>2025-10-31T05:45:32.242Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45707971" href="vote?id=45707971&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.chibiakumas.com/z80/">Learn Multiplatform Z80 Assembly Programming with Vampires</a><span class="sitebit comhead"> (<a href="from?site=chibiakumas.com"><span class="sitestr">chibiakumas.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dithering – Part 1 (Hacker News)]]></title>
-        <id>https://visualrambling.space/dithering-part-1/</id>
-        <link href="https://visualrambling.space/dithering-part-1/"/>
-        <updated>2025-10-30T05:44:47.658Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45750954" href="vote?id=45750954&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://visualrambling.space/dithering-part-1/">Dithering – Part 1</a><span class="sitebit comhead"> (<a href="from?site=visualrambling.space"><span class="sitestr">visualrambling.space</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Status of my favorite bike share stations (Hacker News)]]></title>
+        <id>https://blog.alexboden.ca/toronto-bike-share-status/</id>
+        <link href="https://blog.alexboden.ca/toronto-bike-share-status/"/>
+        <updated>2025-10-31T05:45:32.244Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45706570" href="vote?id=45706570&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.alexboden.ca/toronto-bike-share-status/">Show HN: Status of my favorite bike share stations</a><span class="sitebit comhead"> (<a href="from?site=alexboden.ca"><span class="sitestr">alexboden.ca</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlanetScale Offering $5 Databases (Hacker News)]]></title>
+        <id>https://planetscale.com/blog/5-dollar-planetscale</id>
+        <link href="https://planetscale.com/blog/5-dollar-planetscale"/>
+        <updated>2025-10-31T05:45:32.245Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45761027" href="vote?id=45761027&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://planetscale.com/blog/5-dollar-planetscale">PlanetScale Offering $5 Databases</a><span class="sitebit comhead"> (<a href="from?site=planetscale.com"><span class="sitestr">planetscale.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A change of address led to our Wise accounts being shut down (Hacker News)]]></title>
+        <id>https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/</id>
+        <link href="https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/"/>
+        <updated>2025-10-31T05:45:32.246Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45766253" href="vote?id=45766253&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/">A change of address led to our Wise accounts being shut down</a><span class="sitebit comhead"> (<a href="from?site=shaun.nz"><span class="sitestr">shaun.nz</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Destination of the Month (Wikivoyage recommendations)]]></title>
@@ -220,7 +220,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month"/>
         <updated>2025-10-25T04:24:36.122Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt7" id="mwIQ" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Parahyangan&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;ParahyanganBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The West Javanese region centred around Java's third largest city of Bandung is an excellent place to hike and admire active volcanoes.&quot;}},&quot;i&quot;:0}}]}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style><span about="#mwt7">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:45%">
         <div style="position:relative; float:left; margin:-4px;">
@@ -239,7 +239,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path"/>
         <updated>2025-10-25T04:24:36.124Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt9" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwJg" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;50%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Sekigahara&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;otbp&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SekigaharaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;This quaint mountain town and battlefield, where Tokugawa won control of Japan, gives visitors firsthand insight into feudal Japanese warfare.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt9">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
         <div style="position:relative; float:right; margin:-4px;">
@@ -258,7 +258,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics"/>
         <updated>2025-10-25T04:24:36.125Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt11" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKw" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Driving in China&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;DrivingChinaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;China isn't one of the countries that foreigners commonly explore by driving themselves. If you'd still like to, the first step would be getting a local driving licence.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt11">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt11" id="mwLA">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt11" id="mwLA" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
         <div style="position:relative; float:right; margin:-4px;">
