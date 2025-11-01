@@ -2,235 +2,235 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jobatop.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-31T17:42:32.072Z</updated>
+    <updated>2025-11-01T05:44:01.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Ubuntu Introduces Architecture Variants (Hacker News)]]></title>
-        <id>https://lwn.net/Articles/1044383/</id>
-        <link href="https://lwn.net/Articles/1044383/"/>
-        <updated>2025-10-31T17:42:28.892Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45772579" href="vote?id=45772579&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lwn.net/Articles/1044383/">Ubuntu Introduces Architecture Variants</a><span class="sitebit comhead"> (<a href="from?site=lwn.net"><span class="sitestr">lwn.net</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Strange Attractors (Hacker News)]]></title>
+        <id>https://blog.shashanktomar.com/posts/strange-attractors</id>
+        <link href="https://blog.shashanktomar.com/posts/strange-attractors"/>
+        <updated>2025-11-01T05:43:57.611Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">1.</span></td><td valign="top" class="votelinks"><center><a id="up_45777810" href="vote?id=45777810&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.shashanktomar.com/posts/strange-attractors">Show HN: Strange Attractors</a><span class="sitebit comhead"> (<a href="from?site=shashanktomar.com"><span class="sitestr">shashanktomar.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine (Hacker News)]]></title>
+        <id>https://github.com/vindar/SARCASM</id>
+        <link href="https://github.com/vindar/SARCASM"/>
+        <updated>2025-11-01T05:43:57.612Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45777682" href="vote?id=45777682&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/vindar/SARCASM">S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine</a><span class="sitebit comhead"> (<a href="from?site=github.com/vindar"><span class="sitestr">github.com/vindar</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why should I care what color the bikeshed is? (1999) (Hacker News)]]></title>
+        <id>https://www.bikeshed.com/</id>
+        <link href="https://www.bikeshed.com/"/>
+        <updated>2025-11-01T05:43:57.613Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45686678" href="vote?id=45686678&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.bikeshed.com/">Why should I care what color the bikeshed is? (1999)</a><span class="sitebit comhead"> (<a href="from?site=bikeshed.com"><span class="sitestr">bikeshed.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Futurelock: A subtle risk in async Rust (Hacker News)]]></title>
+        <id>https://rfd.shared.oxide.computer/rfd/0609</id>
+        <link href="https://rfd.shared.oxide.computer/rfd/0609"/>
+        <updated>2025-11-01T05:43:57.613Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45774086" href="vote?id=45774086&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://rfd.shared.oxide.computer/rfd/0609">Futurelock: A subtle risk in async Rust</a><span class="sitebit comhead"> (<a href="from?site=oxide.computer"><span class="sitestr">oxide.computer</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing architecture variants (Hacker News)]]></title>
+        <id>https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312</id>
+        <link href="https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312"/>
+        <updated>2025-11-01T05:43:57.613Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45758392" href="vote?id=45758392&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312">Introducing architecture variants</a><span class="sitebit comhead"> (<a href="from?site=ubuntu.com"><span class="sitestr">ubuntu.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addiction Markets (Hacker News)]]></title>
+        <id>https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate</id>
+        <link href="https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate"/>
+        <updated>2025-11-01T05:43:57.613Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td valign="top" class="votelinks"><center><a id="up_45774640" href="vote?id=45774640&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate">Addiction Markets</a><span class="sitebit comhead"> (<a href="from?site=thebignewsletter.com"><span class="sitestr">thebignewsletter.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video] (Hacker News)]]></title>
+        <id>https://www.youtube.com/watch?v=A_IUIyyqw0M</id>
+        <link href="https://www.youtube.com/watch?v=A_IUIyyqw0M"/>
+        <updated>2025-11-01T05:43:57.613Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45724043" href="vote?id=45724043&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.youtube.com/watch?v=A_IUIyyqw0M">Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]</a><span class="sitebit comhead"> (<a href="from?site=youtube.com"><span class="sitestr">youtube.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A theoretical way to circumvent Android developer verification (Hacker News)]]></title>
+        <id>https://enaix.github.io/2025/10/30/developer-verification.html</id>
+        <link href="https://enaix.github.io/2025/10/30/developer-verification.html"/>
+        <updated>2025-11-01T05:43:57.620Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45776269" href="vote?id=45776269&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://enaix.github.io/2025/10/30/developer-verification.html">A theoretical way to circumvent Android developer verification</a><span class="sitebit comhead"> (<a href="from?site=enaix.github.io"><span class="sitestr">enaix.github.io</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The profitable startup (Hacker News)]]></title>
+        <id>https://linear.app/now/the-profitable-startup</id>
+        <link href="https://linear.app/now/the-profitable-startup"/>
+        <updated>2025-11-01T05:43:57.623Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45778984" href="vote?id=45778984&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://linear.app/now/the-profitable-startup">The profitable startup</a><span class="sitebit comhead"> (<a href="from?site=linear.app"><span class="sitestr">linear.app</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Impressions of the MacBook Pro M4 (Hacker News)]]></title>
+        <id>https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/</id>
+        <link href="https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"/>
+        <updated>2025-11-01T05:43:57.628Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45770304" href="vote?id=45770304&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/">My Impressions of the MacBook Pro M4</a><span class="sitebit comhead"> (<a href="from?site=stapelberg.ch"><span class="sitestr">stapelberg.ch</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent to Deprecate and Remove XSLT (Hacker News)]]></title>
+        <id>https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ</id>
+        <link href="https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ"/>
+        <updated>2025-11-01T05:43:57.628Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45779261" href="vote?id=45779261&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ">Intent to Deprecate and Remove XSLT</a><span class="sitebit comhead"> (<a href="from?site=groups.google.com"><span class="sitestr">groups.google.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active listening: the Swiss Army Knife of communication (Hacker News)]]></title>
+        <id>https://togetherlondon.com/insights/active-listening-swiss-army-knife</id>
+        <link href="https://togetherlondon.com/insights/active-listening-swiss-army-knife"/>
+        <updated>2025-11-01T05:43:57.630Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45719829" href="vote?id=45719829&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://togetherlondon.com/insights/active-listening-swiss-army-knife">Active listening: the Swiss Army Knife of communication</a><span class="sitebit comhead"> (<a href="from?site=togetherlondon.com"><span class="sitestr">togetherlondon.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking India's largest automaker: Tata Motors (Hacker News)]]></title>
+        <id>https://eaton-works.com/2025/10/28/tata-motors-hack/</id>
+        <link href="https://eaton-works.com/2025/10/28/tata-motors-hack/"/>
+        <updated>2025-11-01T05:43:57.631Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45741569" href="vote?id=45741569&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://eaton-works.com/2025/10/28/tata-motors-hack/">Hacking India's largest automaker: Tata Motors</a><span class="sitebit comhead"> (<a href="from?site=eaton-works.com"><span class="sitestr">eaton-works.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I stopped worrying and started loving the Assembly (Hacker News)]]></title>
+        <id>https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60</id>
+        <link href="https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60"/>
+        <updated>2025-11-01T05:43:57.633Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45682917" href="vote?id=45682917&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60" rel="nofollow">How I stopped worrying and started loving the Assembly</a><span class="sitebit comhead"> (<a href="from?site=medium.com/jonas.eschenburg"><span class="sitestr">medium.com/jonas.eschenburg</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use DuckDB-WASM to query TB of data in browser (Hacker News)]]></title>
+        <id>https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/</id>
+        <link href="https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"/>
+        <updated>2025-11-01T05:43:57.634Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45774571" href="vote?id=45774571&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/">Use DuckDB-WASM to query TB of data in browser</a><span class="sitebit comhead"> (<a href="from?site=law.harvard.edu"><span class="sitestr">law.harvard.edu</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Found 7 TiB of Memory Just Sitting Around (Hacker News)]]></title>
+        <id>https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around</id>
+        <link href="https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"/>
+        <updated>2025-11-01T05:43:57.637Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45763359" href="vote?id=45763359&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around">How We Found 7 TiB of Memory Just Sitting Around</a><span class="sitebit comhead"> (<a href="from?site=render.com"><span class="sitestr">render.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker (Hacker News)]]></title>
+        <id>https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker</id>
+        <link href="https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker"/>
+        <updated>2025-11-01T05:43:57.641Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45681535" href="vote?id=45681535&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker">Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker</a><span class="sitebit comhead"> (<a href="from?site=thecretefleet.com"><span class="sitestr">thecretefleet.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Value-pool based caching for Java applications (Hacker News)]]></title>
+        <id>https://github.com/malandrakisgeo/mnemosyne</id>
+        <link href="https://github.com/malandrakisgeo/mnemosyne"/>
+        <updated>2025-11-01T05:43:57.642Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45675323" href="vote?id=45675323&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/malandrakisgeo/mnemosyne" rel="nofollow">Value-pool based caching for Java applications</a><span class="sitebit comhead"> (<a href="from?site=github.com/malandrakisgeo"><span class="sitestr">github.com/malandrakisgeo</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfetto: Swiss army knife for Linux client tracing (Hacker News)]]></title>
+        <id>https://lalitm.com/perfetto-swiss-army-knife/</id>
+        <link href="https://lalitm.com/perfetto-swiss-army-knife/"/>
+        <updated>2025-11-01T05:43:57.643Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45771019" href="vote?id=45771019&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://lalitm.com/perfetto-swiss-army-knife/">Perfetto: Swiss army knife for Linux client tracing</a><span class="sitebit comhead"> (<a href="from?site=lalitm.com"><span class="sitestr">lalitm.com</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fungus: The Befunge CPU(2015) (Hacker News)]]></title>
+        <id>https://www.bedroomlan.org/hardware/fungus/</id>
+        <link href="https://www.bedroomlan.org/hardware/fungus/"/>
+        <updated>2025-11-01T05:43:57.645Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45778566" href="vote?id=45778566&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.bedroomlan.org/hardware/fungus/">Fungus: The Befunge CPU(2015)</a><span class="sitebit comhead"> (<a href="from?site=bedroomlan.org"><span class="sitestr">bedroomlan.org</span></a>)</span></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New analog chip that is 1k times faster than high-end Nvidia GPUs (Hacker News)]]></title>
+        <id>https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus</id>
+        <link href="https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus"/>
+        <updated>2025-11-01T05:43:57.646Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45779181" href="vote?id=45779181&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus">New analog chip that is 1k times faster than high-end Nvidia GPUs</a><span class="sitebit comhead"> (<a href="from?site=livescience.com"><span class="sitestr">livescience.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nix Derivation Madness (Hacker News)]]></title>
         <id>https://fzakaria.com/2025/10/29/nix-derivation-madness</id>
         <link href="https://fzakaria.com/2025/10/29/nix-derivation-madness"/>
         <updated>2025-10-31T17:42:28.893Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">2.</span></td><td valign="top" class="votelinks"><center><a id="up_45772347" href="vote?id=45772347&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://fzakaria.com/2025/10/29/nix-derivation-madness">Nix Derivation Madness</a><span class="sitebit comhead"> (<a href="from?site=fzakaria.com"><span class="sitestr">fzakaria.com</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45772347" href="vote?id=45772347&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://fzakaria.com/2025/10/29/nix-derivation-madness">Nix Derivation Madness</a><span class="sitebit comhead"> (<a href="from?site=fzakaria.com"><span class="sitestr">fzakaria.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI scrapers request commented scripts (Hacker News)]]></title>
-        <id>https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/</id>
-        <link href="https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"/>
-        <updated>2025-10-31T17:42:28.893Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">3.</span></td><td valign="top" class="votelinks"><center><a id="up_45773347" href="vote?id=45773347&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/">AI scrapers request commented scripts</a><span class="sitebit comhead"> (<a href="from?site=cryptography.dog"><span class="sitestr">cryptography.dog</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Signs of introspection in large language models (Hacker News)]]></title>
+        <id>https://www.anthropic.com/research/introspection</id>
+        <link href="https://www.anthropic.com/research/introspection"/>
+        <updated>2025-11-01T05:43:57.649Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45762064" href="vote?id=45762064&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.anthropic.com/research/introspection">Signs of introspection in large language models</a><span class="sitebit comhead"> (<a href="from?site=anthropic.com"><span class="sitestr">anthropic.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Attention lapses due to sleep deprivation due to flushing fluid from brain (Hacker News)]]></title>
-        <id>https://news.mit.edu/2025/your-brain-without-sleep-1029</id>
-        <link href="https://news.mit.edu/2025/your-brain-without-sleep-1029"/>
-        <updated>2025-10-31T17:42:28.893Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">4.</span></td><td valign="top" class="votelinks"><center><a id="up_45771636" href="vote?id=45771636&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://news.mit.edu/2025/your-brain-without-sleep-1029">Attention lapses due to sleep deprivation due to flushing fluid from brain</a><span class="sitebit comhead"> (<a href="from?site=news.mit.edu"><span class="sitestr">news.mit.edu</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Show HN: Pipelex – Declarative language for repeatable AI workflows (Hacker News)]]></title>
+        <id>https://github.com/Pipelex/pipelex</id>
+        <link href="https://github.com/Pipelex/pipelex"/>
+        <updated>2025-11-01T05:43:57.651Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45734865" href="vote?id=45734865&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/Pipelex/pipelex">Show HN: Pipelex – Declarative language for repeatable AI workflows</a><span class="sitebit comhead"> (<a href="from?site=github.com/pipelex"><span class="sitestr">github.com/pipelex</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI gave me my voice back – an artist's review of Suno Studio (Hacker News)]]></title>
-        <id>https://blog.andyshand.com/blog/how-ai-gave-me-my-voice-back</id>
-        <link href="https://blog.andyshand.com/blog/how-ai-gave-me-my-voice-back"/>
-        <updated>2025-10-31T17:42:28.893Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">5.</span></td><td valign="top" class="votelinks"><center><a id="up_45705084" href="vote?id=45705084&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.andyshand.com/blog/how-ai-gave-me-my-voice-back">How AI gave me my voice back – an artist's review of Suno Studio</a><span class="sitebit comhead"> (<a href="from?site=andyshand.com"><span class="sitestr">andyshand.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source) (Hacker News)]]></title>
-        <id>https://docs.pangolin.net/careers/software-engineer-full-stack</id>
-        <link href="https://docs.pangolin.net/careers/software-engineer-full-stack"/>
-        <updated>2025-10-31T17:42:28.896Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">6.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://docs.pangolin.net/careers/software-engineer-full-stack">Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)</a><span class="sitebit comhead"> (<a href="from?site=pangolin.net"><span class="sitestr">pangolin.net</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another European agency shifts off US Tech as digital sovereignty gains steam (Hacker News)]]></title>
-        <id>https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/</id>
-        <link href="https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/"/>
-        <updated>2025-10-31T17:42:28.896Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">7.</span></td><td valign="top" class="votelinks"><center><a id="up_45773974" href="vote?id=45773974&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/">Another European agency shifts off US Tech as digital sovereignty gains steam</a><span class="sitebit comhead"> (<a href="from?site=zdnet.com"><span class="sitestr">zdnet.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[The cryptography behind electronic passports (Hacker News)]]></title>
+        <id>https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/</id>
+        <link href="https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/"/>
+        <updated>2025-11-01T05:43:57.652Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45770875" href="vote?id=45770875&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/">The cryptography behind electronic passports</a><span class="sitebit comhead"> (<a href="from?site=trailofbits.com"><span class="sitestr">trailofbits.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sustainable memristors from shiitake mycelium for high-frequency bioelectronics (Hacker News)]]></title>
         <id>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965</id>
         <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965"/>
         <updated>2025-10-31T17:42:28.898Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">8.</span></td><td valign="top" class="votelinks"><center><a id="up_45771796" href="vote?id=45771796&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965">Sustainable memristors from shiitake mycelium for high-frequency bioelectronics</a><span class="sitebit comhead"> (<a href="from?site=plos.org"><span class="sitestr">plos.org</span></a>)</span></span></td>]]></content>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45771796" href="vote?id=45771796&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965">Sustainable memristors from shiitake mycelium for high-frequency bioelectronics</a><span class="sitebit comhead"> (<a href="from?site=plos.org"><span class="sitestr">plos.org</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fire TV: Amazon to block piracy apps in the future (Hacker News)]]></title>
-        <id>https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html</id>
-        <link href="https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html"/>
-        <updated>2025-10-31T17:42:28.900Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">9.</span></td><td valign="top" class="votelinks"><center><a id="up_45774284" href="vote?id=45774284&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html">Fire TV: Amazon to block piracy apps in the future</a><span class="sitebit comhead"> (<a href="from?site=heise.de"><span class="sitestr">heise.de</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[AI scrapers request commented scripts (Hacker News)]]></title>
+        <id>https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/</id>
+        <link href="https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"/>
+        <updated>2025-10-31T17:42:28.893Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45773347" href="vote?id=45773347&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/">AI scrapers request commented scripts</a><span class="sitebit comhead"> (<a href="from?site=cryptography.dog"><span class="sitestr">cryptography.dog</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process (Hacker News)]]></title>
-        <id>https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/</id>
-        <link href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/"/>
-        <updated>2025-10-31T05:45:32.198Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">10.</span></td><td valign="top" class="votelinks"><center><a id="up_45767916" href="vote?id=45767916&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/">AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process</a><span class="sitebit comhead"> (<a href="from?site=guru3d.com"><span class="sitestr">guru3d.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Photographing the rare brown hyena stalking a diamond mining ghost town (Hacker News)]]></title>
+        <id>https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town</id>
+        <link href="https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town"/>
+        <updated>2025-11-01T05:43:57.656Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45777683" href="vote?id=45777683&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town">Photographing the rare brown hyena stalking a diamond mining ghost town</a><span class="sitebit comhead"> (<a href="from?site=bbc.com"><span class="sitestr">bbc.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Carmack on mutable variables (Hacker News)]]></title>
-        <id>https://twitter.com/id_aa_carmack/status/1983593511703474196</id>
-        <link href="https://twitter.com/id_aa_carmack/status/1983593511703474196"/>
-        <updated>2025-10-31T17:42:28.906Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">11.</span></td><td valign="top" class="votelinks"><center><a id="up_45767725" href="vote?id=45767725&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://twitter.com/id_aa_carmack/status/1983593511703474196">John Carmack on mutable variables</a><span class="sitebit comhead"> (<a href="from?site=twitter.com/id_aa_carmack"><span class="sitestr">twitter.com/id_aa_carmack</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Pangolin (YC S25) is hiring a full stack software engineer (open-source) (Hacker News)]]></title>
+        <id>https://docs.pangolin.net/careers/software-engineer-full-stack</id>
+        <link href="https://docs.pangolin.net/careers/software-engineer-full-stack"/>
+        <updated>2025-10-31T17:42:28.896Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td><img src="s.gif" height="1" width="14"></td><td class="title"><span class="titleline"><a href="https://docs.pangolin.net/careers/software-engineer-full-stack">Pangolin (YC S25) is hiring a full stack software engineer (open-source)</a><span class="sitebit comhead"> (<a href="from?site=pangolin.net"><span class="sitestr">pangolin.net</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wheels for free-threaded Python now available for psutil (Hacker News)]]></title>
-        <id>https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil</id>
-        <link href="https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil"/>
-        <updated>2025-10-31T17:42:28.907Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">12.</span></td><td valign="top" class="votelinks"><center><a id="up_45703860" href="vote?id=45703860&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil">Wheels for free-threaded Python now available for psutil</a><span class="sitebit comhead"> (<a href="from?site=gmpy.dev"><span class="sitestr">gmpy.dev</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affinity Studio now free (Hacker News)]]></title>
-        <id>https://www.affinity.studio/get-affinity</id>
-        <link href="https://www.affinity.studio/get-affinity"/>
-        <updated>2025-10-30T17:43:55.032Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">13.</span></td><td valign="top" class="votelinks"><center><a id="up_45761445" href="vote?id=45761445&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.affinity.studio/get-affinity">Affinity Studio now free</a><span class="sitebit comhead"> (<a href="from?site=affinity.studio"><span class="sitestr">affinity.studio</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nim 2.2.6 (Hacker News)]]></title>
-        <id>https://nim-lang.org//blog/2025/10/31/nim-226.html</id>
-        <link href="https://nim-lang.org//blog/2025/10/31/nim-226.html"/>
-        <updated>2025-10-31T17:42:28.910Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">14.</span></td><td valign="top" class="votelinks"><center><a id="up_45772224" href="vote?id=45772224&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://nim-lang.org//blog/2025/10/31/nim-226.html">Nim 2.2.6</a><span class="sitebit comhead"> (<a href="from?site=nim-lang.org"><span class="sitestr">nim-lang.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotating Workforce Scheduling in MiniZinc (Hacker News)]]></title>
-        <id>https://zayenz.se/blog/post/rotating-workforce-scheduling/</id>
-        <link href="https://zayenz.se/blog/post/rotating-workforce-scheduling/"/>
-        <updated>2025-10-31T17:42:28.911Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">15.</span></td><td valign="top" class="votelinks"><center><a id="up_45772153" href="vote?id=45772153&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://zayenz.se/blog/post/rotating-workforce-scheduling/">Rotating Workforce Scheduling in MiniZinc</a><span class="sitebit comhead"> (<a href="from?site=zayenz.se"><span class="sitestr">zayenz.se</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Floppy Disk / Diskettes // retrocmp / retro computing (Hacker News)]]></title>
-        <id>https://retrocmp.de/fdd/diskette/diskette.htm</id>
-        <link href="https://retrocmp.de/fdd/diskette/diskette.htm"/>
-        <updated>2025-10-31T17:42:28.913Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">16.</span></td><td valign="top" class="votelinks"><center><a id="up_45732160" href="vote?id=45732160&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://retrocmp.de/fdd/diskette/diskette.htm">Floppy Disk / Diskettes // retrocmp / retro computing</a><span class="sitebit comhead"> (<a href="from?site=retrocmp.de"><span class="sitestr">retrocmp.de</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git CLI tool for intelligently creating branch names (Hacker News)]]></title>
-        <id>https://github.com/ytreister/gibr</id>
-        <link href="https://github.com/ytreister/gibr"/>
-        <updated>2025-10-31T17:42:28.914Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">17.</span></td><td valign="top" class="votelinks"><center><a id="up_45771843" href="vote?id=45771843&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/ytreister/gibr">Git CLI tool for intelligently creating branch names</a><span class="sitebit comhead"> (<a href="from?site=github.com/ytreister"><span class="sitestr">github.com/ytreister</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immutable releases are now generally available on GitHub (Hacker News)]]></title>
-        <id>https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/</id>
-        <link href="https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/"/>
-        <updated>2025-10-31T17:42:28.917Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">18.</span></td><td valign="top" class="votelinks"><center><a id="up_45772064" href="vote?id=45772064&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/">Immutable releases are now generally available on GitHub</a><span class="sitebit comhead"> (<a href="from?site=github.blog"><span class="sitestr">github.blog</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI bubble has reached its 'Fried chicken' phase (Hacker News)]]></title>
-        <id>https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef</id>
-        <link href="https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef"/>
-        <updated>2025-10-31T17:42:28.920Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">19.</span></td><td valign="top" class="votelinks"><center><a id="up_45774377" href="vote?id=45774377&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef">The AI bubble has reached its 'Fried chicken' phase</a><span class="sitebit comhead"> (<a href="from?site=ft.com"><span class="sitestr">ft.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bertie the Brain (Hacker News)]]></title>
-        <id>https://en.wikipedia.org/wiki/Bertie_the_Brain</id>
-        <link href="https://en.wikipedia.org/wiki/Bertie_the_Brain"/>
-        <updated>2025-10-31T17:42:28.921Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">20.</span></td><td valign="top" class="votelinks"><center><a id="up_45691697" href="vote?id=45691697&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://en.wikipedia.org/wiki/Bertie_the_Brain">Bertie the Brain</a><span class="sitebit comhead"> (<a href="from?site=wikipedia.org"><span class="sitestr">wikipedia.org</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Use a Button (Hacker News)]]></title>
-        <id>https://gomakethings.com/just-use-a-button/</id>
-        <link href="https://gomakethings.com/just-use-a-button/"/>
-        <updated>2025-10-31T17:42:28.922Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">21.</span></td><td valign="top" class="votelinks"><center><a id="up_45774182" href="vote?id=45774182&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://gomakethings.com/just-use-a-button/">Just Use a Button</a><span class="sitebit comhead"> (<a href="from?site=gomakethings.com"><span class="sitestr">gomakethings.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phone numbers for use in TV shows, films and creative works (Hacker News)]]></title>
-        <id>https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works</id>
-        <link href="https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works"/>
-        <updated>2025-10-31T05:45:32.198Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">22.</span></td><td valign="top" class="votelinks"><center><a id="up_45765787" href="vote?id=45765787&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works">Phone numbers for use in TV shows, films and creative works</a><span class="sitebit comhead"> (<a href="from?site=acma.gov.au"><span class="sitestr">acma.gov.au</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the cochlea computes (2024) (Hacker News)]]></title>
-        <id>https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform</id>
-        <link href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">23.</span></td><td valign="top" class="votelinks"><center><a id="up_45762259" href="vote?id=45762259&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform">How the cochlea computes (2024)</a><span class="sitebit comhead"> (<a href="from?site=dissonances.blog"><span class="sitestr">dissonances.blog</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise (Hacker News)]]></title>
-        <id>https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html</id>
-        <link href="https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html"/>
-        <updated>2025-10-31T17:42:28.927Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">24.</span></td><td valign="top" class="votelinks"><center><a id="up_45771538" href="vote?id=45771538&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html">OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise</a><span class="sitebit comhead"> (<a href="from?site=nytimes.com"><span class="sitestr">nytimes.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi Linear: An Expressive, Efficient Attention Architecture (Hacker News)]]></title>
-        <id>https://github.com/MoonshotAI/Kimi-Linear</id>
-        <link href="https://github.com/MoonshotAI/Kimi-Linear"/>
-        <updated>2025-10-31T05:45:32.198Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">25.</span></td><td valign="top" class="votelinks"><center><a id="up_45766937" href="vote?id=45766937&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://github.com/MoonshotAI/Kimi-Linear">Kimi Linear: An Expressive, Efficient Attention Architecture</a><span class="sitebit comhead"> (<a href="from?site=github.com/moonshotai"><span class="sitestr">github.com/moonshotai</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free software scares normal people (Hacker News)]]></title>
-        <id>https://danieldelaney.net/normal/</id>
-        <link href="https://danieldelaney.net/normal/"/>
-        <updated>2025-10-30T17:43:55.039Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">26.</span></td><td valign="top" class="votelinks"><center><a id="up_45760878" href="vote?id=45760878&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://danieldelaney.net/normal/">Free software scares normal people</a><span class="sitebit comhead"> (<a href="from?site=danieldelaney.net"><span class="sitestr">danieldelaney.net</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPM flooded with malicious packages downloaded more than 86k times (Hacker News)]]></title>
-        <id>https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/</id>
-        <link href="https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"/>
-        <updated>2025-10-31T05:45:32.206Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">27.</span></td><td valign="top" class="votelinks"><center><a id="up_45755027" href="vote?id=45755027&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/">NPM flooded with malicious packages downloaded more than 86k times</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop (Hacker News)]]></title>
-        <id>https://news.ycombinator.com/item?id=45771870</id>
-        <link href="https://news.ycombinator.com/item?id=45771870"/>
-        <updated>2025-10-31T17:42:28.937Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">28.</span></td><td valign="top" class="votelinks"><center><a id="up_45771870" href="vote?id=45771870&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="item?id=45771870">Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop</a></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Closer Look at Piezoelectric Crystal (Hacker News)]]></title>
-        <id>https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html</id>
-        <link href="https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html"/>
-        <updated>2025-10-31T17:42:28.939Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">29.</span></td><td valign="top" class="votelinks"><center><a id="up_45671336" href="vote?id=45671336&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html">A Closer Look at Piezoelectric Crystal</a><span class="sitebit comhead"> (<a href="from?site=samaterials.com"><span class="sitestr">samaterials.com</span></a>)</span></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Springs and bounces in native CSS (Hacker News)]]></title>
-        <id>https://www.joshwcomeau.com/animation/linear-timing-function/</id>
-        <link href="https://www.joshwcomeau.com/animation/linear-timing-function/"/>
-        <updated>2025-10-31T05:45:32.214Z</updated>
-        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45736461" href="vote?id=45736461&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://www.joshwcomeau.com/animation/linear-timing-function/">Springs and bounces in native CSS</a><span class="sitebit comhead"> (<a href="from?site=joshwcomeau.com"><span class="sitestr">joshwcomeau.com</span></a>)</span></span></td>]]></content>
+        <title type="html"><![CDATA[Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking (Hacker News)]]></title>
+        <id>https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/</id>
+        <link href="https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"/>
+        <updated>2025-11-01T05:43:57.659Z</updated>
+        <content type="html"><![CDATA[<td align="right" valign="top" class="title"><span class="rank">30.</span></td><td valign="top" class="votelinks"><center><a id="up_45766501" href="vote?id=45766501&amp;how=up&amp;goto=news"><div class="votearrow" title="upvote"></div></a></center></td><td class="title"><span class="titleline"><a href="https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/">Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking</a><span class="sitebit comhead"> (<a href="from?site=arstechnica.com"><span class="sitestr">arstechnica.com</span></a>)</span></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Destination of the Month (Wikivoyage recommendations)]]></title>
         <id>https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month</id>
         <link href="https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month"/>
         <updated>2025-10-25T04:24:36.122Z</updated>
-        <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt7" id="mwIQ" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Parahyangan&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;ParahyanganBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The West Javanese region centred around Java's third largest city of Bandung is an excellent place to hike and admire active volcanoes.&quot;}},&quot;i&quot;:0}}]}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style><span about="#mwt7">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg">
+        <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt7" id="mwIQ" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;San Carlos de Bariloche&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SanCarlosBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The Argentine adventure capital offers great opportunities for skiing, sightseeing, water sports, trekking and climbing amidst the amazing mountainous landscapes of Argentine Patagonia.&quot;}},&quot;i&quot;:0}}]}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style><span about="#mwt7">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
-	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:45%">
-        <div style="position:relative; float:left; margin:-4px;">
+	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
+        <div style="position:relative; float:right; margin:-4px;">
         <span typeof="mw:File/Frameless"><a href="//en.wikivoyage.org/wiki/Previous_Destinations_of_the_Month" title="Previous Destinations of the Month"><img alt="DotM" resource="//en.wikivoyage.org/wiki/File:Yes_Check_Circle_white.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yes_Check_Circle_white.svg/32px-Yes_Check_Circle_white.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="32" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yes_Check_Circle_white.svg/48px-Yes_Check_Circle_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yes_Check_Circle_white.svg/64px-Yes_Check_Circle_white.svg.png 2x" class="mw-file-element"></a></span></div>
 		<section data-mw-section-id="-1" id="mwIw"><h2 style="font-size:1.25em;" id="Destination_of_the_Month" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the Month</a></h2>
-        <section data-mw-section-id="-1" id="mwJA"><h3 style="font-size:2em;" id="Parahyangan" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Parahyangan" title="Parahyangan">Parahyangan</a></h3>
-		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Parahyangan" title="Parahyangan">The West Javanese region centred around Java's third largest city of Bandung is an excellent place to hike and admire active volcanoes.</a></div>
+        <section data-mw-section-id="-1" id="mwJA"><h3 style="font-size:2em;" id="San_Carlos_de_Bariloche" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/San_Carlos_de_Bariloche" title="San Carlos de Bariloche">San Carlos de Bariloche</a></h3>
+		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/San_Carlos_de_Bariloche" title="San Carlos de Bariloche">The Argentine adventure capital offers great opportunities for skiing, sightseeing, water sports, trekking and climbing amidst the amazing mountainous landscapes of Argentine Patagonia.</a></div>
 	</section></section></div>
-	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Parahyangan&quot;}"><span title="Parahyangan"><img alt="Parahyangan" resource="//en.wikivoyage.org/wiki/File:ParahyanganBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/6/60/ParahyanganBanner1.jpg/1700px-ParahyanganBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/6/60/ParahyanganBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/6/60/ParahyanganBanner1.jpg 2x" class="mw-file-element"></span></span>
-	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Parahyangan&quot;}"><a href="//en.wikivoyage.org/wiki/Parahyangan" title="Parahyangan"><img alt="Parahyangan" resource="//en.wikivoyage.org/wiki/File:ParahyanganBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/6/60/ParahyanganBanner1.jpg/1700px-ParahyanganBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/6/60/ParahyanganBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/6/60/ParahyanganBanner1.jpg 2x" class="mw-file-element"></a></span></p>
+	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;San Carlos de Bariloche&quot;}"><span title="San Carlos de Bariloche"><img alt="San Carlos de Bariloche" resource="//en.wikivoyage.org/wiki/File:SanCarlosBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/9/98/SanCarlosBanner1.jpg/1700px-SanCarlosBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 2x" class="mw-file-element"></span></span>
+	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;San Carlos de Bariloche&quot;}"><a href="//en.wikivoyage.org/wiki/San_Carlos_de_Bariloche" title="San Carlos de Bariloche"><img alt="San Carlos de Bariloche" resource="//en.wikivoyage.org/wiki/File:SanCarlosBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/9/98/SanCarlosBanner1.jpg/1700px-SanCarlosBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 2x" class="mw-file-element"></a></span></p>
 </div>]]></content>
     </entry>
     <entry>
@@ -239,7 +239,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path"/>
         <updated>2025-10-25T04:24:36.124Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt9" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwJg" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;50%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Sekigahara&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;otbp&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SekigaharaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;This quaint mountain town and battlefield, where Tokugawa won control of Japan, gives visitors firsthand insight into feudal Japanese warfare.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt9">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
         <div style="position:relative; float:right; margin:-4px;">
@@ -258,7 +258,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics"/>
         <updated>2025-10-25T04:24:36.125Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt11" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKw" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Driving in China&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;DrivingChinaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;China isn't one of the countries that foreigners commonly explore by driving themselves. If you'd still like to, the first step would be getting a local driving licence.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt11">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt11" id="mwLA">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt11" id="mwLA" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
         <div style="position:relative; float:right; margin:-4px;">
